@@ -1,51 +1,51 @@
-<START>伸恵<END_STR>
+<START>Nobue<END_STR>
 
-<START>千佳<END_STR>
+<START>Chika<END_STR>
 
-<START>美羽<END_STR>
+<START>Miu<END_STR>
 
-<START>茉莉<END_STR>
+<START>Matsuri<END_STR>
 
-<START>アナ<END_STR>
+<START>Ana<END_STR>
 
-<START>笹塚<END_STR>
+<START>Sasazuka<END_STR>
 
-<START>フルシアンテ<END_STR>
+<START>Frusciante<END_STR>
 
-<START>ジョン<END_STR>
+<START>John<END_STR>
 
-<START>さたけ<END_STR>
+<START>Satake<END_STR>
 
-<START>主人公<END_STR>
+<START>Player<END_STR>
 
-<START>普通<END_STR>
+<START>Normal<END_STR>
 
-<START>笑顔小<END_STR>
+<START>Slight Smile<END_STR>
 
-<START>笑顔大<END_STR>
+<START>Huge Grin<END_STR>
 
-<START>困る<END_STR>
+<START>Troubled<END_STR>
 
-<START>真剣<END_STR>
+<START>Serious<END_STR>
 
-<START>悲しい<END_STR>
+<START>Sad<END_STR>
 
-<START>呆れる<END_STR>
+<START>Amazed<END_STR>
 
-<START>驚き<END_STR>
+<START>Surprised<END_STR>
 
-<START>固有<END_STR>
+<START>Specific<END_STR>
 
-<START>固有２<END_STR>
+<START>Specific 2<END_STR>
 
-<START>私服１<END_STR>
+<START>Regular Clothes 1<END_STR>
 
-<START>私服２<END_STR>
+<START>Regular Clothes 2<END_STR>
 
-<START>私服３<END_STR>
+<START>Regular Clothes 3<END_STR>
 
-<START>浴衣<END_STR>
+<START>Yukata<END_STR>
 
-<START>水着<END_STR>
+<START>Swimsuit<END_STR>
 
-<START>特殊<END_STR>
+<START>Special<END_STR>
