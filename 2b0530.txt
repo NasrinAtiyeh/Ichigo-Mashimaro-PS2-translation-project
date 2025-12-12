@@ -1,0 +1,1189 @@
+<START>[face:茉莉:普通]あっ　お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃん　その帽子…<END_STR>
+
+<START>[face:茉莉:笑顔小]う　うん…お兄ちゃんにもらった帽子ニャ<END_STR>
+
+<START>[face:主人公:普通]…ニャ？<END_STR>
+
+<START>[face:茉莉:困る]へ　変かな…？　この帽子をお兄ちゃんに
+もらったこと　みっちゃんに話したんだけど
+「猫になりきるのがナウい」って…<END_STR>
+
+<START>[face:主人公:普通]……そ　そうなんだ<END_STR>
+
+<START>[face:茉莉:困る]や　やっぱり変だよね…<END_STR>
+
+<START>[face:主人公:普通]い　いや…そんなことないよ
+かわいいと思うよ<END_STR>
+
+<START>[face:茉莉:笑顔大]ホ　ホントに？　…よかったぁ<END_STR>
+
+<START>[face:主人公:普通]（ナウいって言ったのか…
+いくつだ　あいつは…）<END_STR>
+
+<START>[face:茉莉:普通]お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃん
+その帽子　またかぶってきたんだ<END_STR>
+
+<START>[face:茉莉:笑顔大]うん　気に入ってるニャ<END_STR>
+
+<START>[face:主人公:普通]…そ　そうなんだ<END_STR>
+
+<START>[face:茉莉:笑顔大]これからも　お兄ちゃんと約束したときは
+この帽子かぶってくるニャ<END_STR>
+
+<START>[face:主人公:普通]う　うん…ありがとう<END_STR>
+
+<START>[face:主人公:普通]（まあ　いいか…
+気に入ってもらえたみたいだし）<END_STR>
+
+<START>[face:茉莉:笑顔小]あ　お兄ちゃん…<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃん　ごめんね
+オレ遅刻しちゃったかな？<END_STR>
+
+<START>[face:茉莉:笑顔小]ううん　あたしが
+早く来すぎちゃったのニャ
+…今日　すごく楽しみだったから<END_STR>
+
+<START>[face:主人公:普通]そっか…<END_STR>
+
+<START>[face:茉莉:困る]えっ　あたしにくれるの？
+…い　いらない<END_STR>
+
+<START>[face:主人公:普通]そ　そうだよね<END_STR>
+
+<START>[face:茉莉:困る]え…？　これ　どうしたの？<END_STR>
+
+<START>[face:主人公:普通]いや　茉莉ちゃんにあげようと思って<END_STR>
+
+<START>[face:茉莉:困る]えっ　でも…悪いよ<END_STR>
+
+<START>[face:主人公:普通]ううん　茉莉ちゃんが欲しいと思って
+買ったから　受け取ってよ<END_STR>
+
+<START>[face:茉莉:笑顔小]…う　うんっ
+ホントは　この本ずっと欲しかったんだ
+ありがとね　お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]うん　どういたしまして<END_STR>
+
+<START>[face:茉莉:普通]え…　何　これ？<END_STR>
+
+<START>[face:茉莉:笑顔小]そ　そうなんだ…
+なんかおもしろい帽子だね<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃんに似合うと思うけど<END_STR>
+
+<START>[face:茉莉:笑顔小]う　うん…ありがとう　お兄ちゃん<END_STR>
+
+<START>[face:茉莉:普通]あ　浮き輪…
+どうしたの？　それ<END_STR>
+
+<START>[face:茉莉:笑顔小]う　うん…ありがとう<END_STR>
+
+<START>[face:茉莉:笑顔小]お兄ちゃん　どうしたの？
+そのぬいぐるみ…　かわいいね<END_STR>
+
+<START>[face:主人公:普通]うん　茉莉ちゃんにあげようと思って<END_STR>
+
+<START>[face:茉莉:笑顔小]えっ　でも…悪いよ<END_STR>
+
+<START>[face:茉莉:笑顔小]…う　うんっ　わかった
+ありがとね　お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]じゃあ入ろうか<END_STR>
+
+<START>[face:茉莉:笑顔小]うんっ<END_STR>
+
+<START>[face:茉莉:普通]お兄ちゃん　今日も暑いねー<END_STR>
+
+<START>[face:主人公:普通]うん…　ねぇ茉莉ちゃん<END_STR>
+
+<START>メガネなくても大丈夫？<END_STR>
+
+<START>ジョンはどうしてるの？<END_STR>
+
+<START>[face:主人公:普通]メガネなくても大丈夫？<END_STR>
+
+<START>[face:茉莉:困る]うん…　実は
+メガネ外しちゃうと　お兄ちゃんの顔も
+よく見えないんだニャ<END_STR>
+
+<START>[face:主人公:普通]そ　そっか…
+じゃあ　今日は人が多いから
+はぐれたら大変だね<END_STR>
+
+<START>[face:茉莉:困る]うん<END_STR>
+
+<START>[face:主人公:普通]……<END_STR>
+
+<START>[face:主人公:普通]（…茉莉ちゃんのことだから
+すぐに迷子になりそうだよな）<END_STR>
+
+<START>[face:主人公:普通]ジョンはどうしてるの？<END_STR>
+
+<START>[face:茉莉:普通]ジョンはね　プールに連れてきたら
+怒られちゃうでしょ？
+それに　ジョンは暑いところが苦手だから<END_STR>
+
+<START>[face:主人公:普通]そっか　ジョンも一緒だったら楽しいのに
+でも　やっぱり無理か
+係の人に怒られちゃうもんね<END_STR>
+
+<START>[face:茉莉:笑顔小]うん
+…あっ　でもお兄ちゃんと２人だけでも
+すごく楽しいニャ<END_STR>
+
+<START>[face:主人公:普通]そう？　そりゃよかった<END_STR>
+
+<START>[face:茉莉:笑顔小]お　お兄ちゃんは楽しい？<END_STR>
+
+<START>[face:主人公:普通]うん　もちろん<END_STR>
+
+<START>[face:茉莉:笑顔大]ホントに？　よかったぁ…
+ねー　お兄ちゃん
+また一緒にプールに来ようニャ<END_STR>
+
+<START>[face:主人公:普通]うん　よろこんで<END_STR>
+
+<START>[face:茉莉:笑顔小]ううん　あたしが早く来すぎちゃったの
+…今日　すごく楽しみだったから<END_STR>
+
+<START>[face:茉莉:困る]うん…　実は
+メガネ外しちゃうと　お兄ちゃんの顔も
+よく見えないんだぁ<END_STR>
+
+<START>[face:茉莉:笑顔小]うん
+…あっ　でもお兄ちゃんと２人だけでも
+すごく楽しいよ<END_STR>
+
+<START>[face:茉莉:笑顔大]ホントに？　よかったぁ…
+ねー　お兄ちゃん
+また一緒にプールに来ようね<END_STR>
+
+<START>[face:主人公:普通]あ　茉莉ちゃん…ごめんね　お待たせ<END_STR>
+
+<START>[face:茉莉:普通]ううん　あたしも今来たところだから…<END_STR>
+
+<START>[face:主人公:普通]そっか　よかった<END_STR>
+
+<START>[face:茉莉:普通]うん<END_STR>
+
+<START>[face:主人公:普通]今日はいい天気だ…　プール日和だな
+さすがにちょっと人も多いよな
+家族連れもいるし　カップルもいるなぁ<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃん遅いな…
+着替えに時間かかってんのかな<END_STR>
+
+<START>まさか水着忘れたとか…<END_STR>
+
+<START>まさか迷子になってないよな…<END_STR>
+
+<START>まさか帰っちゃった？<END_STR>
+
+<START>[face:主人公:普通]まさか水着忘れたとか…<END_STR>
+
+<START>[face:主人公:普通]そんなわけないと思うけど…<END_STR>
+
+<START>[face:茉莉:困る]お兄ちゃん…<END_STR>
+
+<START>[face:主人公:普通]ま　茉莉ちゃん…水着は？<END_STR>
+
+<START>[face:茉莉:困る]…あの　それが
+忘れてきちゃったみたいニャ…<END_STR>
+
+<START>[face:主人公:普通]そ　そっか…それじゃ今日は残念だけど
+一緒に泳げないね…<END_STR>
+
+<START>[face:茉莉:悲しい]ご　ごめんニャ<END_STR>
+
+<START>[face:主人公:普通]…う　うん…しかたないよ
+帰ろうか<END_STR>
+
+<START>[face:茉莉:悲しい]…うん<END_STR>
+
+<START>[face:主人公:普通]（まさか本当に忘れるとは…）<END_STR>
+
+<START>[face:主人公:普通]まさか迷子になってないよな…<END_STR>
+
+<START>[face:主人公:普通]そんなわけないと思うけど…
+……いや　ありうるな<END_STR>
+
+<START>[face:主人公:普通]ま　茉莉ちゃん<END_STR>
+
+<START>[face:茉莉:普通]ごめんニャ　待たせちゃって
+迷子の子がいてね
+お母さん探してたんだニャ<END_STR>
+
+<START>[face:主人公:普通]ふ　ふーん…そうなんだ<END_STR>
+
+<START>[face:主人公:普通]（茉莉ちゃんが
+迷子になってたわけじゃないのか…）<END_STR>
+
+<START>[face:茉莉:困る]ど…どうしたのニャ？　お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]いっ…　いや　なんでもないよ<END_STR>
+
+<START>[face:茉莉:普通]そう…じゃあ　プール入ろうか<END_STR>
+
+<START>[face:主人公:普通]う　うん<END_STR>
+
+<START>[face:主人公:普通]まさか帰っちゃった？<END_STR>
+
+<START>[face:茉莉:困る]ごめんニャ　待たせちゃって
+迷子の子がいてね
+お母さん探してたんだニャ<END_STR>
+
+<START>[face:主人公:普通]ふーん　そうなんだ<END_STR>
+
+<START>[face:茉莉:困る]うん　ずっと泣いてて
+かわいそうだったから…<END_STR>
+
+<START>[face:主人公:普通]へぇ　茉莉ちゃん優しいんだね<END_STR>
+
+<START>[face:茉莉:笑顔小]そっ　そんなことないニャ…
+ねぇお兄ちゃん　プール入ろうよ<END_STR>
+
+<START>[face:主人公:普通]うん　そうだね<END_STR>
+
+<START>[face:茉莉:困る]…あの　それが
+忘れてきちゃったみたい…<END_STR>
+
+<START>[face:茉莉:悲しい]ご　ごめんね<END_STR>
+
+<START>[face:茉莉:普通]ごめんね　待たせちゃって
+迷子の子がいてね　お母さん探してたんだ<END_STR>
+
+<START>[face:茉莉:困る]ど…どうしたの？　お兄ちゃん<END_STR>
+
+<START>[face:茉莉:困る]ごめんね　待たせちゃって
+迷子の子がいてね　お母さん探してたんだ<END_STR>
+
+<START>[face:茉莉:笑顔小]そっ　そんなことないよ…
+ねぇお兄ちゃん　プール入ろうよ<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃん　まだ来てないのかな？
+もうちょっと待ってみよう<END_STR>
+
+<START>[face:主人公:普通]しっかし　今日も暑いよなぁ
+なんだか　のど渇いてきた…<END_STR>
+
+<START>[face:茉莉:普通]もしもし　お兄ちゃん？<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃん？　今日はどうしたの？<END_STR>
+
+<START>[face:茉莉:困る]ご　ごめんね…　あの…
+今日は行けなくなっちゃったんだ<END_STR>
+
+<START>[face:主人公:普通]え　そうなの？<END_STR>
+
+<START>[face:茉莉:困る]う　うん…ごめんなさい
+また今度誘ってね　…じゃあ<END_STR>
+
+<START>[face:主人公:普通]切れちゃった…　まあしょうがないか…<END_STR>
+
+<START>[face:茉莉:困る]お兄ちゃん<END_STR>
+
+<START>[face:茉莉:困る]ご…ごめんニャ　待たせちゃったよね？<END_STR>
+
+<START>[face:主人公:普通]い　いや大丈夫…<END_STR>
+
+<START>[face:茉莉:普通]あのね　さっき花火買ったんだニャ
+…お兄ちゃんと一緒にやろうと思って<END_STR>
+
+<START>[face:主人公:普通]花火か…　楽しそうだね
+一緒にやろうか<END_STR>
+
+<START>[face:茉莉:笑顔大]ホントー…？　よかったぁ<END_STR>
+
+<START>[face:茉莉:困る]なんかこの花火…
+なかなか火がつかないニャァ<END_STR>
+
+<START>[face:主人公:普通]ん？　じゃあオレのと交換しようか<END_STR>
+
+<START>[face:茉莉:笑顔小]うんっ　ありがとう<END_STR>
+
+<START>[face:主人公:普通]あれ　茉莉ちゃんにもらった花火
+すぐに火ついたよ？<END_STR>
+
+<START>[face:茉莉:普通]え…　ホントに？
+あれー？　この花火も火がつかないよ<END_STR>
+
+<START>[face:主人公:普通]…つけ方が悪いんじゃ…
+かわりに　火つけてあげるよ<END_STR>
+
+<START>[face:茉莉:普通]うん　ありがとニャ…<END_STR>
+
+<START>[face:茉莉:笑顔大]あ　ついたニャ！<END_STR>
+
+<START>[face:茉莉:困る]ごほっ　ごほっ<END_STR>
+
+<START>[face:主人公:普通]ま　茉莉ちゃん…大丈夫？<END_STR>
+
+<START>[face:茉莉:困る]けほっ　だ…大丈夫<END_STR>
+
+<START>[face:茉莉:笑顔小]花火きれいだったニャー<END_STR>
+
+<START>打ち上げ花火には負けるけどね<END_STR>
+
+<START>うん　今日は楽しかったよ<END_STR>
+
+<START>[face:主人公:普通]打ち上げ花火には負けるけどね<END_STR>
+
+<START>[face:茉莉:困る]それはそうだけど…
+じゃあ　お兄ちゃんは
+線香花火とか好きじゃないの？<END_STR>
+
+<START>[face:主人公:普通]うーん…　わかんないな<END_STR>
+
+<START>[face:茉莉:困る]そっか…　線香花火が残ってたから
+最後にやりたかったんだけどな…<END_STR>
+
+<START>[face:主人公:普通]うん　今日は楽しかったよ<END_STR>
+
+<START>[face:茉莉:笑顔小]うん　あたしも楽しかったニャ
+……あ　線香花火が残ってる<END_STR>
+
+<START>[face:主人公:普通]線香花火か…　じゃあやろうか<END_STR>
+
+<START>[face:茉莉:笑顔小]お兄ちゃん　今日はありがとニャ<END_STR>
+
+<START>[face:主人公:普通]うん　今日はもう遅いから　帰らなきゃ<END_STR>
+
+<START>[face:茉莉:困る]…う　うん
+ちょっと残念ニャ…<END_STR>
+
+<START>[face:主人公:普通]じゃあ　また今度いっしょにやろうね<END_STR>
+
+<START>[face:茉莉:笑顔大]う　うんっ<END_STR>
+
+<START>[face:茉莉:困る]ご…ごめんね　待たせちゃったよね？<END_STR>
+
+<START>[face:茉莉:普通]あのね　さっき花火買ったんだ
+…お兄ちゃんと一緒にやろうと思って<END_STR>
+
+<START>[face:茉莉:困る]なんかこの花火…
+なかなか火がつかないなぁ<END_STR>
+
+<START>[face:茉莉:普通]うん　ありがとう…<END_STR>
+
+<START>[face:茉莉:笑顔大]あ　ついたーっ<END_STR>
+
+<START>[face:茉莉:笑顔小]花火きれいだったねー<END_STR>
+
+<START>[face:茉莉:笑顔小]うん　あたしも楽しかった
+……あ　線香花火が残ってる<END_STR>
+
+<START>[face:茉莉:笑顔小]お兄ちゃん　今日はありがとね<END_STR>
+
+<START>[face:茉莉:困る]うん
+ちょっと残念…<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃん　まだ来てないのかな？<END_STR>
+
+<START>[face:主人公:普通]あ　茉莉ちゃん<END_STR>
+
+<START>[face:茉莉:困る]遅くなってごめんニャ<END_STR>
+
+<START>[face:主人公:普通]ううん<END_STR>
+
+<START>[face:主人公:笑顔小]今日はベンチで　ゆっくり話でもしない？<END_STR>
+
+<START>[face:茉莉:普通]うん…<END_STR>
+
+<START>[face:茉莉:普通]お兄ちゃんも　子供のとき
+この公園で遊んだのニャ？<END_STR>
+
+<START>[face:主人公:普通]うん　いっぱい遊んだよ
+ブランコとか鉄棒とか…　すべり台から
+落ちてケガしたこともあったなぁ<END_STR>
+
+<START>[face:茉莉:普通]へー　そうなんだぁ
+あたしもよくケガするニャ<END_STR>
+
+<START>[face:主人公:普通]え　すべり台から落ちて？<END_STR>
+
+<START>[face:茉莉:普通]ううん　転んだときとか<END_STR>
+
+<START>[face:主人公:普通]そ　そうなんだ…<END_STR>
+
+<START>[face:茉莉:普通]うん　外を歩いてると
+いつもよく　転んじゃうんだぁ<END_STR>
+
+<START>[face:主人公:普通]ふ　ふーん…<END_STR>
+
+<START>大きな石につまずいて？<END_STR>
+
+<START>誰かが足を引っ張ってるとか…<END_STR>
+
+<START>それは茉莉ちゃんの得意技？<END_STR>
+
+<START>[face:主人公:普通]大きな石につまずいて？<END_STR>
+
+<START>[face:茉莉:普通]え…大きな石？
+あんまり落ちてるの見たことないけど…<END_STR>
+
+<START>[face:茉莉:普通]…うん<END_STR>
+
+<START>[face:主人公:普通]（茉莉ちゃん
+何もないところで転ぶのかな…）<END_STR>
+
+<START>[face:主人公:普通]誰かが足を引っ張ってるとか…<END_STR>
+
+<START>[face:茉莉:困る]え…　な　何それ…！？<END_STR>
+
+<START>[face:主人公:普通]いや　オバケとか…<END_STR>
+
+<START>[face:茉莉:悲しい]…そ　そうなのかな
+うぅ…　あたし怖いニャ…<END_STR>
+
+<START>[face:主人公:普通]…だ　大丈夫だよ
+家まで送ってあげるから　ねっ<END_STR>
+
+<START>[face:茉莉:悲しい]……う　うん…<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃん　着いたよ<END_STR>
+
+<START>[face:茉莉:悲しい]……<END_STR>
+
+<START>[face:主人公:普通]ど　どうしたの…？<END_STR>
+
+<START>[face:茉莉:悲しい]あたし　家から出るのやめようかニャ…
+外に出たらオバケに会うかもしれないし…
+…お兄ちゃんには会えないけど<END_STR>
+
+<START>[face:主人公:普通]う　うん…<END_STR>
+
+<START>[face:茉莉:悲しい]じゃあね　お兄ちゃん
+…送ってくれてありがとニャ<END_STR>
+
+<START>[face:主人公:普通]（少しおどかすつもりだったんだけど…
+本気にしちゃったみたいだ…
+…あとでちゃんと説明してあげないとな）<END_STR>
+
+<START>[face:主人公:普通]それは茉莉ちゃんの得意技？<END_STR>
+
+<START>[face:茉莉:困る]と　得意技…？
+…別にそんなんじゃないニャ<END_STR>
+
+<START>[face:主人公:普通]そ　そっか…
+じゃあ　どうしてだろうね？<END_STR>
+
+<START>[face:茉莉:困る]…知らないニャ<END_STR>
+
+<START>[face:主人公:普通]（…茉莉ちゃん　怒っちゃったのかな？）<END_STR>
+
+<START>[face:茉莉:困る]遅くなってごめんね<END_STR>
+
+<START>[face:茉莉:普通]お兄ちゃんも　子供のとき
+この公園で遊んだの？<END_STR>
+
+<START>[face:茉莉:普通]へー　そうなんだぁ
+あたしもよくケガするよ<END_STR>
+
+<START>[face:茉莉:悲しい]…そ　そうなのかな
+うぅ…　あたし怖いよ…<END_STR>
+
+<START>[face:茉莉:悲しい]あたし　家から出るのやめようかな…
+外に出たらオバケに会うかもしれないし…
+…お兄ちゃんには会えないけど<END_STR>
+
+<START>[face:茉莉:悲しい]じゃあね　お兄ちゃん
+…送ってくれてありがとう<END_STR>
+
+<START>[face:茉莉:困る]と　得意技…？
+…別にそんなんじゃないもん<END_STR>
+
+<START>[face:茉莉:困る]…知らないよ<END_STR>
+
+<START>[face:茉莉:普通]あ　お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃん　待った？<END_STR>
+
+<START>[face:茉莉:普通]うん　ちょっとだけ<END_STR>
+
+<START>[face:主人公:普通]あ　ごめんね<END_STR>
+
+<START>[face:主人公:普通]…ところで　今日は何しようか？<END_STR>
+
+<START>[face:茉莉:普通]うーん…　お兄ちゃん決めていいニャ<END_STR>
+
+<START>[face:主人公:普通]そうだなぁ…　あ　そうだ
+おさい銭入れてお願いごとしようか<END_STR>
+
+<START>[face:茉莉:普通]うんっ　いいニャ<END_STR>
+
+<START>[face:主人公:普通]（この夏休みの間
+何ごともなく無事にすごせますように）<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃんは　なんてお願いしたの？<END_STR>
+
+<START>[face:茉莉:普通]んー…　内緒ニャ…
+お兄ちゃんは？<END_STR>
+
+<START>みんなと仲良くなれますように<END_STR>
+
+<START>健康でいられますように<END_STR>
+
+<START>[face:主人公:普通]みんなと仲良くなれますように<END_STR>
+
+<START>[face:茉莉:普通]みんなって　おねぇちゃんたちのこと？<END_STR>
+
+<START>[face:主人公:普通]うん　茉莉ちゃんとも
+もっと仲良くなりたいしね<END_STR>
+
+<START>[face:茉莉:笑顔小]…そっか　そうだよね
+あたしもお兄ちゃんと仲良くなりたいニャ<END_STR>
+
+<START>[face:主人公:普通]じゃあ　もっと色んな場所に行って
+いっぱい遊ぼうね<END_STR>
+
+<START>[face:茉莉:笑顔大]うんっ　色んなところに連れてってニャ<END_STR>
+
+<START>[face:主人公:普通]健康でいられますように<END_STR>
+
+<START>[face:茉莉:困る]え…　お兄ちゃん
+体どこか悪いのニャ？<END_STR>
+
+<START>[face:主人公:普通]いや　そういうわけじゃないんだけど
+このままずっと健康でいられたら
+いいなぁと思って<END_STR>
+
+<START>[face:茉莉:普通]ふーん　そっかぁ
+せっかくの夏休みなのに
+風邪とか引いたらやだもんニャ<END_STR>
+
+<START>[face:主人公:普通]うん<END_STR>
+
+<START>[face:茉莉:普通]あたしも　夏休みの間
+風邪引きませんようにって
+もう１回お願いしておこうかなぁ<END_STR>
+
+<START>[face:主人公:普通]大丈夫だよ
+茉莉ちゃんの分もお願いしといたから<END_STR>
+
+<START>[face:茉莉:笑顔大]え　ホントに？
+…お兄ちゃん　ありがとニャ<END_STR>
+
+<START>[face:茉莉:普通]うーん…　お兄ちゃん決めていいよ<END_STR>
+
+<START>[face:茉莉:普通]うんっ　いいよ<END_STR>
+
+<START>[face:茉莉:普通]んー…　内緒…
+お兄ちゃんは？<END_STR>
+
+<START>[face:茉莉:笑顔小]…そっか　そうだよね
+あたしもお兄ちゃんと仲良くなりたいな<END_STR>
+
+<START>[face:茉莉:笑顔大]うんっ　色んなところに連れてってね<END_STR>
+
+<START>[face:茉莉:困る]え…　お兄ちゃん　体どこか悪いの？<END_STR>
+
+<START>[face:茉莉:普通]ふーん　そっかぁ
+せっかくの夏休みなのに
+風邪とか引いたらやだもんね<END_STR>
+
+<START>[face:茉莉:笑顔大]え　ホントに？
+…お兄ちゃん　ありがとう<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃんは　まだ来てないのかな<END_STR>
+
+<START>[face:茉莉:普通]あ　お兄ちゃん
+ごめんニャ　待った？<END_STR>
+
+<START>[face:主人公:普通]いや　今来たところだよ<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃん　一緒におみくじ引かない？<END_STR>
+
+<START>[face:茉莉:困る]うーん…　あたしおみくじはちょっと…
+…悪いのが出たらいやだから…<END_STR>
+
+<START>[face:主人公:普通]ふーん　そっかぁ
+じゃあ　絵馬にお願いごと書いてみようよ<END_STR>
+
+<START>[face:茉莉:笑顔小]うんっ　楽しそうだニャ<END_STR>
+
+<START>[face:主人公:普通]うーん　なんて書こうかな
+……茉莉ちゃんはなんて書くの？<END_STR>
+
+<START>[face:茉莉:真剣]……<END_STR>
+
+<START>[face:主人公:普通]あれ　聞こえてないみたいだ<END_STR>
+
+<START>[face:主人公:普通]（茉莉ちゃん　それにしても真剣だな…）<END_STR>
+
+<START>[face:茉莉:笑顔小]お兄ちゃん　なんて書いたニャ？<END_STR>
+
+<START>内緒だよ<END_STR>
+
+<START>今年もいい年になりますように<END_STR>
+
+<START>[face:主人公:普通]内緒だよ<END_STR>
+
+<START>[face:茉莉:困る]そ　そっか<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃんは？<END_STR>
+
+<START>[face:茉莉:困る]…あたしも内緒ニャ<END_STR>
+
+<START>[face:主人公:普通]そっか…　真似されちゃったな<END_STR>
+
+<START>[face:茉莉:笑顔小]ねぇ　お兄ちゃん
+願いごと　叶うといいニャ<END_STR>
+
+<START>[face:主人公:普通]（なんか茉莉ちゃんと一緒だと
+ホントに願いが叶いそうな気がするな）<END_STR>
+
+<START>[face:主人公:普通]今年もいい年になりますように<END_STR>
+
+<START>[face:茉莉:困る]え…　今年って
+もう夏だから　半年もないよ？<END_STR>
+
+<START>[face:主人公:普通]…そ　そうだよね
+でも今年は　正月のときに
+お願いしてないから…<END_STR>
+
+<START>[face:茉莉:笑顔小]そうなんだ…
+じゃあ　いい年になるといいニャ<END_STR>
+
+<START>[face:茉莉:普通]あ　お兄ちゃん
+ごめんね　待った？<END_STR>
+
+<START>[face:茉莉:笑顔小]うんっ　楽しそうだね<END_STR>
+
+<START>[face:茉莉:笑顔小]お兄ちゃん　なんて書いたの？<END_STR>
+
+<START>[face:茉莉:困る]…あたしも内緒<END_STR>
+
+<START>[face:茉莉:笑顔小]ねぇ　お兄ちゃん
+願いごと　叶うといいね<END_STR>
+
+<START>[face:茉莉:笑顔小]そうなんだ…
+じゃあ　いい年になるといいね<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃん　お待たせ<END_STR>
+
+<START>[face:茉莉:笑顔小]ねぇ　お兄ちゃん
+今日はスワンボートに乗らない？<END_STR>
+
+<START>[face:主人公:普通]スワンボートかぁ　いいね<END_STR>
+
+<START>[face:茉莉:笑顔小]あたしがこいであげるから
+お兄ちゃんは　こがないでニャ<END_STR>
+
+<START>[face:茉莉:真剣]ふうぅぅーっん！<END_STR>
+
+<START>[face:主人公:普通]ま　茉莉ちゃん…進んでないよ？<END_STR>
+
+<START>[face:茉莉:真剣]うぅぅー<END_STR>
+
+<START>[face:主人公:普通]…茉莉ちゃん　オレもこぐよ<END_STR>
+
+<START>[face:主人公:普通]いやぁ楽しかったね　スワンボート<END_STR>
+
+<START>[face:茉莉:悲しい]……うん<END_STR>
+
+<START>[face:主人公:普通]あ　あれ…茉莉ちゃん？<END_STR>
+
+<START>[face:茉莉:悲しい]お兄ちゃん　ごめんニャ
+あたしがこいであげたかったんだけど…<END_STR>
+
+<START>[face:主人公:普通]いや…<END_STR>
+
+<START>でも　楽しかったよ<END_STR>
+
+<START>湖から出られないかと思ったよ<END_STR>
+
+<START>[face:主人公:普通]でも　楽しかったよ<END_STR>
+
+<START>[face:茉莉:笑顔小]ほ　ほんと？<END_STR>
+
+<START>[face:主人公:普通]うん　オレもこいでみたかったし
+…また一緒にのろうね<END_STR>
+
+<START>[face:茉莉:笑顔大]う　うんっ　約束だニャ<END_STR>
+
+<START>[face:主人公:普通]湖から出られないかと思ったよ<END_STR>
+
+<START>[face:茉莉:悲しい]…ご　ごめんなさいニャ<END_STR>
+
+<START>[face:主人公:普通]（冗談のつもりだったんだけど…
+ちょっと言いすぎちゃったかな）<END_STR>
+
+<START>[face:茉莉:笑顔小]あたしがこいであげるから
+お兄ちゃんは　こがないでね<END_STR>
+
+<START>[face:茉莉:悲しい]お兄ちゃん　ごめんね
+あたしがこいであげたかったんだけど…<END_STR>
+
+<START>[face:茉莉:笑顔大]う　うんっ　約束だよ<END_STR>
+
+<START>[face:茉莉:悲しい]…ご　ごめんなさい<END_STR>
+
+<START>[face:主人公:普通]あれ　茉莉ちゃんいないな
+はやく来すぎたかな…<END_STR>
+
+<START>[face:茉莉:普通]お兄ちゃーん<END_STR>
+
+<START>[face:主人公:普通]あ　茉莉ちゃん
+ごめんね　遠いところに呼んじゃって<END_STR>
+
+<START>[face:茉莉:普通]う…ううん　大丈夫ニャ<END_STR>
+
+<START>[face:主人公:普通]あ　今日はジョンも連れてきたんだ<END_STR>
+
+<START>[face:茉莉:困る]うん　…ダメだった？<END_STR>
+
+<START>[face:主人公:普通]ううん　そんなことないよ<END_STR>
+
+<START>[face:茉莉:笑顔小]ホントに？
+よかったニャ　ジョン<END_STR>
+
+<START>[face:主人公:普通]そういえば
+ジョンは暑いところでも大丈夫なの？<END_STR>
+
+<START>[face:茉莉:普通]ううん　ホントは苦手なんだけど
+今日は少し涼しいから大丈夫だと思う<END_STR>
+
+<START>[face:主人公:普通]そうなんだ<END_STR>
+
+<START>[face:茉莉:普通]ねぇ　お兄ちゃん
+ジョンはなんていう種類か知ってる？<END_STR>
+
+<START>バタースコッチでしょ<END_STR>
+
+<START>アルビノだったよね<END_STR>
+
+<START>…スカンクの仲間だよね<END_STR>
+
+<START>[face:主人公:普通]バタースコッチでしょ<END_STR>
+
+<START>[face:茉莉:笑顔大]うんっ　お兄ちゃん知ってたんだぁ
+他にも真っ白いフェレットも
+いるんだニャ<END_STR>
+
+<START>[face:主人公:普通]へぇ　それは知らなかったな<END_STR>
+
+<START>[face:茉莉:笑顔大]でしょー？　…あっ<END_STR>
+
+<START>[face:主人公:普通]アルビノだったよね<END_STR>
+
+<START>[face:茉莉:普通]ざんねんでしたー
+ジョンはバタースコッチっていうんだニャ
+アルビノは真っ白い種類のフェレットだニャ<END_STR>
+
+<START>[face:主人公:普通]ふーん　そっか<END_STR>
+
+<START>[face:茉莉:普通]でも　お兄ちゃん
+アルビノっていう種類は知ってるんだね
+…あっ<END_STR>
+
+<START>[face:主人公:普通]…スカンクの仲間だよね<END_STR>
+
+<START>[face:茉莉:困る]う　うん…そうだけど<END_STR>
+
+<START>[face:主人公:普通]じゃあ　おならしたら臭いのかな<END_STR>
+
+<START>[face:茉莉:困る]え……ジョ　ジョンは
+おならなんてしないニャ　…あっ<END_STR>
+
+<START>[face:茉莉:驚き]はぁッ！　ジョン！！<END_STR>
+
+<START>[face:主人公:普通]あ　逃げた<END_STR>
+
+<START>[face:茉莉:驚き]ジョンーっ　待ってー！<END_STR>
+
+<START>[face:茉莉:真剣]ねぇ　お兄ちゃん…
+一緒に探してニャ！<END_STR>
+
+<START>[face:茉莉:困る]ジョン…　うぅ　心配したんだからね<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃん　よかったね
+ジョンが見つかって<END_STR>
+
+<START>[face:茉莉:困る]うぅ…　う　うん…
+ありがとニャ　お兄ちゃん…<END_STR>
+
+<START>[face:主人公:普通]じゃあ　今日はもう帰ろうか<END_STR>
+
+<START>[face:茉莉:悲しい]……うん…　うぅ<END_STR>
+
+<START>[face:茉莉:普通]う…ううん　大丈夫<END_STR>
+
+<START>[face:茉莉:笑顔小]ホントに？
+よかったね　ジョン<END_STR>
+
+<START>[face:茉莉:笑顔大]うんっ　お兄ちゃん知ってたんだぁ
+他にも真っ白いフェレットもいるんだよ<END_STR>
+
+<START>[face:茉莉:普通]ざんねんでしたー
+ジョンはバタースコッチっていうんだよ
+アルビノは真っ白い種類のフェレットだよ<END_STR>
+
+<START>[face:茉莉:困る]え……ジョ　ジョンは
+おならなんてしないもん　…あっ<END_STR>
+
+<START>[face:茉莉:真剣]ねぇ　お兄ちゃん…
+一緒に探して！<END_STR>
+
+<START>[face:茉莉:困る]うぅ…　う　うん…
+ありがとう　お兄ちゃん…<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃん…　まだ来てないや
+中にいるのかな？<END_STR>
+
+<START>[face:茉莉:普通]お　お兄ちゃん…<END_STR>
+
+<START>[face:茉莉:普通]ごめんニャ　待たせちゃって<END_STR>
+
+<START>[face:主人公:普通]いや　今来たところだから<END_STR>
+
+<START>[face:茉莉:普通]う　うん<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃんの家には
+絵本がいっぱいあるんだよね？<END_STR>
+
+<START>[face:主人公:普通]全部で　どれくらいあるの？<END_STR>
+
+<START>[face:茉莉:普通]うーん…　数えたことないけど
+いっぱいあるニャ<END_STR>
+
+<START>[face:主人公:普通]ふーん<END_STR>
+
+<START>絵本博士みたいだね<END_STR>
+
+<START>全部読んだことあるんでしょ？<END_STR>
+
+<START>まさか　もう読んでないよね<END_STR>
+
+<START>[face:主人公:普通]絵本博士みたいだね<END_STR>
+
+<START>[face:茉莉:笑顔小]え　博士なんて大げさだニャ<END_STR>
+
+<START>[face:主人公:普通]そうかなぁ
+でも　話の内容は覚えてるでしょ？<END_STR>
+
+<START>[face:茉莉:普通]…うん　だいたい覚えてるニャ
+「うさぎとかめ」とか「かぐやひめ」とか
+この前も読んだばっかりだし<END_STR>
+
+<START>[face:主人公:普通]こ　この前…？<END_STR>
+
+<START>[face:主人公:普通]へ　へぇ…すごいね<END_STR>
+
+<START>[face:主人公:普通]（今でも読んでるのか…）<END_STR>
+
+<START>[face:主人公:普通]全部読んだことあるんでしょ？<END_STR>
+
+<START>[face:茉莉:笑顔小]うん<END_STR>
+
+<START>[face:主人公:普通]童話とか民話って　話は知ってるけど
+意外と細かいところまで
+覚えてなかったりするんだよね<END_STR>
+
+<START>[face:主人公:普通]オレもたまには読んでみようかな…
+ねぇ茉莉ちゃん　よかったら今度…
+……あれ？<END_STR>
+
+<START>[face:主人公:普通]…本の世界に入り込んでる…<END_STR>
+
+<START>[face:主人公:普通]……ま　いいか
+そっとしといてやろう<END_STR>
+
+<START>[face:主人公:普通]まさか　もう読んでないよね<END_STR>
+
+<START>[face:茉莉:普通]え　読んでるニャ？<END_STR>
+
+<START>[face:茉莉:笑顔小]うん　最近「うさぎとかめ」読んだんだー
+おもしろいから　お兄ちゃんも
+読んでみる？<END_STR>
+
+<START>[face:主人公:普通]い　いや…　大丈夫<END_STR>
+
+<START>[face:茉莉:普通]ごめんね　待たせちゃって<END_STR>
+
+<START>[face:茉莉:普通]うーん…　数えたことないけど
+いっぱいあるよ<END_STR>
+
+<START>[face:茉莉:笑顔小]え　博士なんて大げさだよー<END_STR>
+
+<START>[face:茉莉:普通]…うん　だいたい覚えてるよ
+「うさぎとかめ」とか「かぐやひめ」とか
+この前も読んだばっかりだし<END_STR>
+
+<START>[face:茉莉:普通]え　読んでるよ？<END_STR>
+
+<START>[face:主人公:普通]あ　茉莉ちゃんごめんね　待った？<END_STR>
+
+<START>[face:茉莉:普通]ううん　今来たところだから…<END_STR>
+
+<START>[face:主人公:普通]そっか<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃんはいつも
+どんな本を読んでるの？<END_STR>
+
+<START>[face:茉莉:笑顔小]う　うん…
+ちっちゃいときに買った絵本が
+そのままあたしの部屋に置いてあって…<END_STR>
+
+<START>[face:茉莉:笑顔小]寝る前に読んだりしてるんだニャ<END_STR>
+
+<START>[face:主人公:普通]え　絵本か…　楽しそうだね<END_STR>
+
+<START>[face:茉莉:笑顔小]うん　おもしろいの　いっぱいあるから
+今度お兄ちゃんにも貸してあげるニャ<END_STR>
+
+<START>[face:主人公:普通]う　うん…　ありがとう
+ところで今日は何読んでるの？<END_STR>
+
+<START>[face:茉莉:笑顔小]んっとね「ことわざ絵本」ニャ<END_STR>
+
+<START>[face:主人公:普通]へぇ　ことわざか
+…でもやっぱり絵本なのか<END_STR>
+
+<START>[face:茉莉:笑顔小]うん　おもしろいニャ<END_STR>
+
+<START>[face:主人公:普通]……そ　そうだろうね
+だって絵本だもん<END_STR>
+
+<START>[face:茉莉:普通]ねぇ　お兄ちゃん
+「ブタにしんじゅ」って
+どういう意味ニャ？<END_STR>
+
+<START>[face:主人公:普通]え…？　それはね
+価値のわからない人に高価な物をあげても
+意味がないことのたとえだよ<END_STR>
+
+<START>[face:茉莉:普通]へぇー　そうなんだぁ
+じゃあ「２かいから目ぐすり」って？<END_STR>
+
+<START>目薬がよく効くさしかた<END_STR>
+
+<START>うまくいかないという意味<END_STR>
+
+<START>何ごとにも挑戦しろという意味<END_STR>
+
+<START>[face:主人公:普通]目薬がよく効くさしかた<END_STR>
+
+<START>[face:茉莉:普通]えー　そ　そうなの？
+そんなわけないニャ<END_STR>
+
+<START>[face:主人公:普通]ご…ごめん　ウソ<END_STR>
+
+<START>[face:主人公:普通]うまくいかないという意味<END_STR>
+
+<START>[face:茉莉:笑顔小]へぇー　なるほど…
+そうだよね　２階からだと
+目薬さすの　難しそうだもんニャ<END_STR>
+
+<START>[face:主人公:普通]何ごとにも挑戦しろという意味<END_STR>
+
+<START>[face:茉莉:普通]へぇー　そうなんだ
+なんか　いい言葉だニャ
+アナちゃんにも教えてあげようかな<END_STR>
+
+<START>[face:主人公:普通]……そ　それはやめたほうが…<END_STR>
+
+<START>[face:茉莉:笑顔小]なんか　お兄ちゃんて
+なんでも知ってて　すごいよニャ<END_STR>
+
+<START>[face:主人公:普通]なんでもってことはないと思うけど…<END_STR>
+
+<START>[face:茉莉:笑顔小]お兄ちゃん　また色々聞いてもいい？<END_STR>
+
+<START>[face:茉莉:笑顔大]じゃあ　またニャ<END_STR>
+
+<START>[face:茉莉:笑顔小]寝る前に読んだりしてるんだぁ<END_STR>
+
+<START>[face:茉莉:笑顔小]うん　おもしろいの　いっぱいあるから
+今度お兄ちゃんにも貸してあげるねー<END_STR>
+
+<START>[face:茉莉:笑顔小]んっとね「ことわざ絵本」<END_STR>
+
+<START>[face:茉莉:笑顔小]うん　おもしろいよ<END_STR>
+
+<START>[face:茉莉:普通]ねぇ　お兄ちゃん
+「ブタにしんじゅ」ってどういう意味？<END_STR>
+
+<START>[face:茉莉:普通]えー　そ　そうなの？　そんなわけないよ<END_STR>
+
+<START>[face:茉莉:笑顔小]へぇー　なるほど…
+そうだよね　２階からだと
+目薬さすの　難しそうだもんね<END_STR>
+
+<START>[face:茉莉:普通]へぇー　そうなんだ
+なんか　いい言葉だね
+アナちゃんにも教えてあげようかな<END_STR>
+
+<START>[face:茉莉:笑顔小]なんか　お兄ちゃんて
+なんでも知ってて　すごいよねー<END_STR>
+
+<START>[face:茉莉:笑顔大]じゃあ　またね<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃん　まだみたいだな<END_STR>
+
+<START>[face:主人公:普通]ううん　今来たところだから<END_STR>
+
+<START>[face:主人公:普通]よーし　今日はいっぱい食べるぞ<END_STR>
+
+<START>[face:茉莉:笑顔小]お兄ちゃん　食べすぎないでニャ<END_STR>
+
+<START>[face:主人公:普通]うん　大丈夫だよ<END_STR>
+
+<START>[face:主人公:普通]はぁー…　食いすぎた<END_STR>
+
+<START>[face:茉莉:笑顔小]おいしかったニャ<END_STR>
+
+<START>[face:主人公:普通]うん
+あ　そういえば
+茉莉ちゃん　やけどしてない？<END_STR>
+
+<START>[face:茉莉:普通]あ　うん…大丈夫だニャ<END_STR>
+
+<START>[face:主人公:普通]そっか　よかった
+あのハンバーグ
+ものすごい熱そうだったもんな<END_STR>
+
+<START>ふぅふぅしなきゃダメだよ<END_STR>
+
+<START>まるで殺人ハンバーグだよ<END_STR>
+
+<START>店長を呼ぼうか<END_STR>
+
+<START>[face:主人公:普通]ふぅふぅしなきゃダメだよ<END_STR>
+
+<START>[face:茉莉:困る]え…　あたし　熱いの苦手だから
+ちゃんと冷めるまでふぅふぅしたニャ？<END_STR>
+
+<START>[face:主人公:普通]あれ　そうだっけ？
+…そういえば　そうだったかもね<END_STR>
+
+<START>[face:茉莉:困る]うん　お兄ちゃん目の前で見てたのに
+もう忘れちゃったの？<END_STR>
+
+<START>[face:主人公:普通]…ご　ごめん<END_STR>
+
+<START>[face:主人公:普通]まるで殺人ハンバーグだよ<END_STR>
+
+<START>[face:茉莉:笑顔大]あはは　大げさだニャ<END_STR>
+
+<START>[face:主人公:普通]そうかもね
+…茉莉ちゃん　また一緒に来ようね<END_STR>
+
+<START>[face:茉莉:笑顔大]うんっ<END_STR>
+
+<START>[face:主人公:普通]じゃあ　家まで送るよ<END_STR>
+
+<START>[face:茉莉:笑顔大]うん　ありがとニャ　お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]店長を呼ぼうか<END_STR>
+
+<START>[face:茉莉:困る]だ…だめだニャ　そんなの<END_STR>
+
+<START>[face:主人公:普通]え　そう？<END_STR>
+
+<START>[face:茉莉:困る]…うん
+あたし　やけどしてないから大丈夫だニャ<END_STR>
+
+<START>[face:主人公:普通]そっか　わかったよ<END_STR>
+
+<START>[face:茉莉:困る]……<END_STR>
+
+<START>[face:茉莉:笑顔小]お兄ちゃん　食べすぎないでね<END_STR>
+
+<START>[face:茉莉:笑顔小]おいしかったね<END_STR>
+
+<START>[face:茉莉:普通]あ　うん…大丈夫だよ<END_STR>
+
+<START>[face:茉莉:困る]え…　あたし　熱いの苦手だから
+ちゃんと冷めるまでふぅふぅしたよ？<END_STR>
+
+<START>[face:茉莉:笑顔大]あはは　大げさだよー<END_STR>
+
+<START>[face:茉莉:笑顔大]うん　ありがとうお兄ちゃん<END_STR>
+
+<START>[face:茉莉:困る]だ…だめだよ　そんなの<END_STR>
+
+<START>[face:茉莉:困る]…うん
+あたし　やけどしてないから大丈夫だよ<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃん　ごめんね　待った？<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃん　何食べる？<END_STR>
+
+<START>[face:茉莉:笑顔小]うーんと…　サンドイッチに
+しようかニャ<END_STR>
+
+<START>[face:主人公:普通]じゃあ　オレはホットサンドにしよう<END_STR>
+
+<START>[face:主人公:普通]茉莉ちゃん　どうしたの？<END_STR>
+
+<START>[face:茉莉:困る]え？　ううん…なんでもないニャ<END_STR>
+
+<START>食欲ないの？<END_STR>
+
+<START>ホットサンドも食べたいの？<END_STR>
+
+<START>[face:主人公:普通]食欲ないの？<END_STR>
+
+<START>[face:茉莉:困る]え…？
+別にそういうわけじゃないけどニャ…<END_STR>
+
+<START>[face:主人公:普通]あ　そうなんだ…
+なんか　かんちがいしちゃったかな
+ごめんね<END_STR>
+
+<START>[face:茉莉:困る]ううん<END_STR>
+
+<START>[face:主人公:普通]はー…　うまかったなぁ
+ねぇ　茉莉ちゃん？<END_STR>
+
+<START>[face:茉莉:困る]…うん
+食べきれなくて　残しちゃったけど…<END_STR>
+
+<START>[face:主人公:普通]そんなこと　気にしなくていいのに<END_STR>
+
+<START>[face:茉莉:困る]でも　作ってくれた人に悪いから…<END_STR>
+
+<START>[face:主人公:普通]…そっか<END_STR>
+
+<START>[face:主人公:普通]ホットサンドも食べたいの？<END_STR>
+
+<START>[face:茉莉:笑顔小]…う　うん<END_STR>
+
+<START>[face:主人公:普通]じゃあ　茉莉ちゃんのサンドイッチと
+半分こしよっか<END_STR>
+
+<START>[face:茉莉:笑顔小]…うん　ありがとニャ<END_STR>
+
+<START>[face:茉莉:笑顔小]うんっ　半分こしたから
+２つとも食べられて
+すごく　おいしかったニャ<END_STR>
+
+<START>[face:主人公:普通]そっか　よかったね<END_STR>
+
+<START>[face:茉莉:笑顔小]うん　お兄ちゃんのおかげだニャ<END_STR>
+
+<START>[face:主人公:普通]じゃあ　また一緒に来ようね<END_STR>
+
+<START>[face:茉莉:笑顔小]うーんと…　サンドイッチにしようかなぁ<END_STR>
+
+<START>[face:茉莉:困る]え？　ううん…なんでもないよ<END_STR>
+
+<START>[face:茉莉:困る]え…？
+別にそういうわけじゃないんだけど…<END_STR>
+
+<START>[face:茉莉:笑顔小]…うん　ありがとう<END_STR>
+
+<START>[face:茉莉:笑顔小]うんっ　半分こしたから
+２つとも食べられて
+すごく　おいしかったよ<END_STR>
+
+<START>[face:茉莉:笑顔小]うん　お兄ちゃんのおかげだよ<END_STR>
+
+<START>none course!!
+<END_STR>

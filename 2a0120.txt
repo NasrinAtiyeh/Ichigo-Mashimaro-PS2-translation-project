@@ -1,0 +1,830 @@
+<START>Pあれ…出ないぞ　運転中とかなのかな？
+また今度かけるか<END_STR>
+
+<START><END_STR>
+
+<START>P出ないな…
+もしかして　酔っ払って気づかないとか？
+また今度かけるか<END_STR>
+
+<START>Pあ　もしもし　[名前]だけど…<END_STR>
+
+<START>あ…　あんたか
+どうしたんだよ急に<END_STR>
+
+<START>おう　あんたか　どうしたの？<END_STR>
+
+<START>なんだ　おまえか　…なんか用？<END_STR>
+
+<START>P突然だけど　[曜日]曜日空いてる？
+よかったら一緒に[場所]に行かない？<END_STR>
+
+<START>うん　いいよ
+[曜日]曜日に[場所]だな　待ってるよ<END_STR>
+
+<START>Pうん　じゃあね<END_STR>
+
+<START>GスケジュールWに予定が追加されました！<END_STR>
+
+<START>うーん　ヒマだからいいよ
+[曜日]曜日に[場所]だな　遅刻すんなよ<END_STR>
+
+<START>んー　あんまり気が乗らないなぁ
+ほかの娘でも誘ってみたら？<END_STR>
+
+<START>Pうん…　わかった　じゃあね<END_STR>
+
+<START>え…？　この間も
+そこ行かなかったっけ？
+悪いけど　また今度誘ってくんないかな<END_STR>
+
+<START>えぇー　この間も
+そこ行かなかったっけ？
+悪いけど遠慮しとくよ<END_STR>
+
+<START>その日はどうしてもはずせない用事が
+あるんだよね……　ごめんな<END_STR>
+
+<START>ごめん　その日はダメだわ
+悪いけどまた誘ってくれよ<END_STR>
+
+<START>あっ　でも…[曜日]曜日だったら
+空いてるけど…<END_STR>
+
+<START>Pうん　わかった
+じゃあその日にしよう<END_STR>
+
+<START>おう　わかったよ
+[曜日]曜日に[場所]だな　遅刻すんなよ<END_STR>
+
+<START>ファ…　ファミレス！？
+あたしは遠慮しとくよ　…悪いけど
+ほかの娘と行ってくんないかな<END_STR>
+
+<START>Pお菓子作りでもしてるのかな？
+ジャマしちゃ悪いよな
+また今度かけるか<END_STR>
+
+<START>P夕飯のしたくでもしてるのかな？
+また今度かけるか<END_STR>
+
+<START>あっ…お兄ちゃん　こんにちは
+どうしたの？<END_STR>
+
+<START>あ　お兄ちゃん　どうしたの？<END_STR>
+
+<START>あ　お兄ちゃん…　なんか用？<END_STR>
+
+<START>うん！　いいよ
+[曜日]曜日に[場所]ね　楽しみにしてるね<END_STR>
+
+<START>うん　いいよ
+[曜日]曜日に[場所]ね<END_STR>
+
+<START>うーん　あたしはいいや…
+遠慮しとく<END_STR>
+
+<START>えー　この間も
+そこ行かなかったっけ？
+ごめんねお兄ちゃん　また誘ってよ<END_STR>
+
+<START>えー　この間も
+そこ行かなかったっけ？
+なんかあきちゃったから　いいや<END_STR>
+
+<START>うーん　その日はちょっと用事が…
+ごめんね　お兄ちゃん
+今度また誘ってよ　ねっ<END_STR>
+
+<START>うーん　その日はちょっと用事が…
+また今度にしてくれる？<END_STR>
+
+<START>Pうん…　わかった<END_STR>
+
+<START>あっ　でも…[曜日]曜日だったら
+空いてるよ　その日じゃダメ？<END_STR>
+
+<START>Pううん　大丈夫だよ
+じゃあその日にしよう<END_STR>
+
+<START>うん　じゃあ
+[曜日]曜日に[場所]ね　楽しみにしてるね<END_STR>
+
+<START>え　居酒屋…？
+それなら　おねぇちゃん誘ってあげたら？
+あたしは遠慮しとくよ<END_STR>
+
+<START>P…授業中かな？
+いや　今夏休みだしな…
+また今度かけるか<END_STR>
+
+<START>P…今　いそがしいのかな？
+また今度かけるか<END_STR>
+
+<START>はい　こちら浜松警察署
+美人刑事の美羽ちゃんです<END_STR>
+
+<START>P……なんだそれ<END_STR>
+
+<START>事件ですか！？<END_STR>
+
+<START>P……いや　違うけど…<END_STR>
+
+<START>お　その声は
+おねーちゃんの幼なじみのお兄ちゃんだな<END_STR>
+
+<START>P…いちいち説明しなくていいよ<END_STR>
+
+<START>なんだ　あんたか
+…あたしになんか用なの？<END_STR>
+
+<START>うん　いいよー　[曜日]曜日に[場所]ね
+遅刻したらタイホするよ<END_STR>
+
+<START>P……う　うん　じゃあね<END_STR>
+
+<START>んー　別にいいけど…
+[曜日]曜日に[場所]か　めんどくさいなぁ<END_STR>
+
+<START>P…ご　ごめんね
+待ってるから…　じゃあね<END_STR>
+
+<START>えー　やだよ
+なんか　めんどくさくない？<END_STR>
+
+<START>P……いや　そんなこと聞かれても<END_STR>
+
+<START>じゃあ　夏休みの宿題
+全部やってくれたら　行ってもいいよ<END_STR>
+
+<START>Pい　いや…やっぱりいいや
+…じゃあね<END_STR>
+
+<START>えー　この間も
+そこ行かなかったっけ？<END_STR>
+
+<START>なんか　あきちゃったから
+また誘ってよ<END_STR>
+
+<START>えー　この間も
+そこ行かなかったっけ？
+なんか　あきちゃったよ<END_STR>
+
+<START>Pそ　そっか…<END_STR>
+
+<START>いや　あきたというか
+うんざりだよ<END_STR>
+
+<START>P……ご　ごめん
+そこまで言わなくても…<END_STR>
+
+<START>いやもう　はっきり言って
+ぎりぎりだよ<END_STR>
+
+<START>P……何がだよ…　まあいいや
+じゃあ　…また誘うね<END_STR>
+
+<START>んー　その日は
+見たいドラマがあるんだよね<END_STR>
+
+<START>Pそ　そうなんだ<END_STR>
+
+<START>また今度誘ってよ<END_STR>
+
+<START>Pそ　そうなんだ
+…わかったよ　じゃあね<END_STR>
+
+<START>[曜日]曜日だったら空いてるけど<END_STR>
+
+<START>Pホントに？
+じゃあその日にしようよ<END_STR>
+
+<START>えー　居酒屋？
+そんなにお酒が飲みたいんなら
+おねーちゃん誘えばいいじゃんか<END_STR>
+
+<START>Pう　うん…そうだね　わかったよ
+じゃあね<END_STR>
+
+<START>Pもしかして　お昼寝中かな？
+起こしたらかわいそうだから
+また今度かけるか<END_STR>
+
+<START>Pあれ　もう寝てるのかな？
+まだ夕方だぞ…　まあ　しょうがないな
+また今度かけるか<END_STR>
+
+<START>あ…　こ　こんにちは…<END_STR>
+
+<START>うんっ　いいよ
+えっと…[曜日]曜日に[場所]だよね
+楽しみだなぁー<END_STR>
+
+<START>Pうん　楽しみだよ
+じゃあまたね<END_STR>
+
+<START>えっ…　あの　その…あたし
+まだ宿題とかいっぱい残ってるし…<END_STR>
+
+<START>Pそ　そっか…
+じゃあ　しかたないか　…じゃあね<END_STR>
+
+<START>え…　お兄ちゃん
+この間も　そこ行ったよ？
+また行くの？　別にいいけど…<END_STR>
+
+<START>Pそっか…　何度も行ったら飽きちゃうよね
+…また電話するね<END_STR>
+
+<START>うん　わかった　じゃあね<END_STR>
+
+<START>え…　この間も
+そこ行ったと思うけど…
+あんまり何度も　行きたくないな…<END_STR>
+
+<START>Pそっか…　わかった
+…また電話するね<END_STR>
+
+<START>あ…　ご　ごめんね
+その日はちょっとお出かけしちゃうから…
+…今度また誘って<END_STR>
+
+<START>あ…　その日はちょっと
+お出かけしちゃうから…<END_STR>
+
+<START>あっ　でも…[曜日]曜日だったら
+空いてるよ<END_STR>
+
+<START>うんっ　えっと…
+[曜日]曜日に[場所]だよね
+楽しみだなぁー<END_STR>
+
+<START>え　居酒屋…？
+お酒飲むところはちょっと…　ごめんね<END_STR>
+
+<START>Pもしかして　図書館とかにいるのかな？
+また今度かけるか<END_STR>
+
+<START>Pあれ…出ないや　お風呂かな？
+また今度かけるか<END_STR>
+
+<START>あっ　お兄さま　こんにちは
+どうしたんですか？　急に
+ちょっとびっくりしましたわ<END_STR>
+
+<START>Pうん　ごめんね<END_STR>
+
+<START>あ　お兄さま　どうしました？<END_STR>
+
+<START>あ　こんにちは…
+何か用ですの？<END_STR>
+
+<START>ええ　よろこんで
+[曜日]曜日に[場所]ですね
+なんだか今から楽しみですわー<END_STR>
+
+<START>ええ　別にかまいませんけど…
+じゃあ　[曜日]曜日に[場所]ですね<END_STR>
+
+<START>ごめんなさい…
+ちょっと気がのりませんわ<END_STR>
+
+<START>え…　お兄さま
+この間も　そこに行きましたわ<END_STR>
+
+<START>できれば　お兄さまとは
+色んなところに行きたいですわ…<END_STR>
+
+<START>Pそっか…　わかった
+じゃあ　また電話するね<END_STR>
+
+<START>はい<END_STR>
+
+<START>え…　この間も
+そこに行きましたけど…
+また行くんですか？<END_STR>
+
+<START>なんか　ちょっと飽きちゃいましたわ<END_STR>
+
+<START>ご　ごめんなさい…
+その日はママとお出かけするので…
+お兄さま　今度また誘ってくださいね<END_STR>
+
+<START>あ　その日はちょっと都合が…
+また今度にしていただけませんか？<END_STR>
+
+<START>あっ…　でも　お兄さま
+[曜日]曜日だったら空いてますわ
+その日じゃダメですか？<END_STR>
+
+<START>ええ　じゃあ
+[曜日]曜日に[場所]ですね
+なんだか今から楽しみですわー<END_STR>
+
+<START>うん　じゃあね<END_STR>
+
+<START>え　居酒屋ですか…？
+お酒飲むところはちょっと…
+ごめんなさい<END_STR>
+
+<START>うん…　わかった　じゃあね<END_STR>
+
+<START>Pあれ…？　そういえば
+だれの番号も知らないや…
+何やってんだオレ…<END_STR>
+
+<START>うん　よろこんで<END_STR>
+
+<START>伸恵のおごりならいいよ<END_STR>
+
+<START>じゃあオレがおごってあげるよ<END_STR>
+
+<START>今日の伸恵　なんか変だったよ<END_STR>
+
+<START>伸恵って意外と酒弱いんだな<END_STR>
+
+<START>また飲みに行こうな<END_STR>
+
+<START>ムリに決まってんだろ<END_STR>
+
+<START>オレが頼んでやろうか？<END_STR>
+
+<START>夜中は冷房消してるだろ<END_STR>
+
+<START>アホ　決めつけんなって<END_STR>
+
+<START>それはジェラシーなのか？<END_STR>
+
+<START>浜松の女にも鼻の下伸ばすぞ<END_STR>
+
+<START>くだらないこと言ってんなよ<END_STR>
+
+<START>そんな伝説　いらねーよ！<END_STR>
+
+<START>伸恵が伝説を引き継いでくれ<END_STR>
+
+<START>夜更かしは肌に良くないぞ<END_STR>
+
+<START>変な寝言言ってたぞ<END_STR>
+
+<START>前向きなヤツだな<END_STR>
+
+<START>たしかにそうかもね<END_STR>
+
+<START>もう気にすんなって<END_STR>
+
+<START>あれは忘れてくれよ<END_STR>
+
+<START>自分の胸に聞いてみろよ<END_STR>
+
+<START>決めつけんなって！<END_STR>
+
+<START>校長の名前すら忘れたからなぁ<END_STR>
+
+<START>でも校歌は覚えてるぞ<END_STR>
+
+<START>こっちが死にそうだったよ！	<END_STR>
+
+<START>泣いてなんかいねーよ！<END_STR>
+
+<START>今度はおまえを泣かしたろか！<END_STR>
+
+<START>うん　改装してよかったよね	<END_STR>
+
+<START>さすがに少し汚かったからね	<END_STR>
+
+<START>まるで罰ゲームだよな<END_STR>
+
+<START>オレはあんまり赤くならないよ<END_STR>
+
+<START>じゃあ背中洗ってあげようか？<END_STR>
+
+<START>もちろん　よろこんで<END_STR>
+
+<START>オレはライス派だから…<END_STR>
+
+<START>パンは意外と高カロリーだよね<END_STR>
+
+<START>明日からダイエットしなきゃね<END_STR>
+
+<START>虫歯には気をつけようね<END_STR>
+
+<START>冷やしとけば大丈夫だよ<END_STR>
+
+<START>消えなかったら恥ずかしいよね<END_STR>
+
+<START>バンソウコウ貼っておきなよ<END_STR>
+
+<START>きっとスキがあるんだよ<END_STR>
+
+<START>気づかない千佳ちゃんも変だよ<END_STR>
+
+<START>せめて水性にしてほしいよね<END_STR>
+
+<START>明日からジョギングしようかな<END_STR>
+
+<START>暑いから外に出たくないなぁ	<END_STR>
+
+<START>うん　ありがとう<END_STR>
+
+<START>姉妹とは思えないよね<END_STR>
+
+<START>今度一緒に仕返ししようよ<END_STR>
+
+<START>でもケンカはダメだよ<END_STR>
+
+<START>千佳ちゃんって本当に優しいね<END_STR>
+
+<START>気休めでもうれしいよ<END_STR>
+
+<START>人には言えないことだよ<END_STR>
+
+<START>「彼女ができますように」って<END_STR>
+
+<START>「お金持ちになりたい」って	<END_STR>
+
+<START>うん　いいよ<END_STR>
+
+<START>今度は千佳ちゃん家で話そうよ<END_STR>
+
+<START>外で遊んだら夏バテしちゃうよ<END_STR>
+
+<START>今度は線香花火もやりたいね	<END_STR>
+
+<START>毎年恒例にしたいね<END_STR>
+
+<START>海はクラゲがいるからなぁ…	<END_STR>
+
+<START>じゃあみんなも誘って行こうよ<END_STR>
+
+<START>もう気にしてないよ<END_STR>
+
+<START>大丈夫だから気にしないでね	<END_STR>
+
+<START>もう走っちゃだめだよ<END_STR>
+
+<START>太るからやめときなよ<END_STR>
+
+<START>またオレも一緒に行くよ<END_STR>
+
+<START>おなかこわすなよ<END_STR>
+
+<START>意外とオレの方が似合うかもよ<END_STR>
+
+<START>やるわけねーだろ！<END_STR>
+
+<START>ウェイトレスって萌えるよね	<END_STR>
+
+<START>モテモテ課長の役でしょ？<END_STR>
+
+<START>課長に口説かれる女の役？<END_STR>
+
+<START>勝手に登場させんなって！<END_STR>
+
+<START>うん…それでお願いします<END_STR>
+
+<START>そんなもん作ってどうすんだよ<END_STR>
+
+<START>「親父」の方がいいな<END_STR>
+
+<START>へぇ～　よく知ってるね<END_STR>
+
+<START>まじめに走らなかったの？<END_STR>
+
+<START>ムダな知識だな<END_STR>
+
+<START>美羽ちゃんも落ちてみなよ<END_STR>
+
+<START>まるで地獄絵図だよ<END_STR>
+
+<START>そんなもん見てどうすんだよ！<END_STR>
+
+<START>今度は普通のボートにしようよ<END_STR>
+
+<START>今度はオレがこいであげるよ	<END_STR>
+
+<START>ボートから落ちるかと思ったよ<END_STR>
+
+<START>どうせ変な願い事書くんだろ？<END_STR>
+
+<START>何度も書くと効果がなくなるぞ<END_STR>
+
+<START>じゃあ今度は座禅に挑戦しよう<END_STR>
+
+<START>じゃあ今度は別の場所に行こう<END_STR>
+
+<START>飽きっぽいヤツだな<END_STR>
+
+<START>あのクツ買ったばっかなのに…<END_STR>
+
+<START>美羽ちゃんのクツの方が汚いよ<END_STR>
+
+<START>す　すみません…<END_STR>
+
+<START>花火は外でやろうね<END_STR>
+
+<START>人の部屋で花火すんなよ！<END_STR>
+
+<START>探しといてあげるよ<END_STR>
+
+<START>ちなみにオレはやらないからね<END_STR>
+
+<START>美羽ちゃんって勇気あるよね<END_STR>
+
+<START>たしかに　不思議だね～<END_STR>
+
+<START>気のせいじゃないか？<END_STR>
+
+<START>図書館で調べとくよ<END_STR>
+
+<START>食べながら寝ないようにね<END_STR>
+
+<START>ダイエットしなきゃね<END_STR>
+
+<START>ヤケドしなくて良かったね<END_STR>
+
+<START>今度はみんなも誘って行こうよ<END_STR>
+
+<START>大人も色々大変だけどね<END_STR>
+
+<START>はやく大人になれるといいね	<END_STR>
+
+<START>そのうちなれるよ<END_STR>
+
+<START>図書館で借りるから大丈夫だよ<END_STR>
+
+<START>絵本は子供が読むものだから…<END_STR>
+
+<START>カゴに入れていけば？<END_STR>
+
+<START>つないだらかわいそうだよ<END_STR>
+
+<START>外には出さない方がいいかもね<END_STR>
+
+<START>今度は普通のボートに乗ろうよ<END_STR>
+
+<START>茉莉ちゃんには大変だろうね	<END_STR>
+
+<START>うん　少し恥ずかしいかもね	<END_STR>
+
+<START>恥ずかしいこと書いたの？<END_STR>
+
+<START>じゃあ　書かなきゃいいじゃん<END_STR>
+
+<START>うん　そうだね<END_STR>
+
+<START>なんか特別な感じだよね<END_STR>
+
+<START>普段は神社に行かないからね<END_STR>
+
+<START>泣かないようにがんばってね	<END_STR>
+
+<START>茉莉ちゃんは本当にドジだなぁ<END_STR>
+
+<START>ちゃんと消毒した方がいいよ	<END_STR>
+
+<START>今度はみんなも一緒にやろうよ<END_STR>
+
+<START>特に線香花火がきれいだったね<END_STR>
+
+<START>プールに水着忘れるとはね…	<END_STR>
+
+<START>ホントは泳ぎたくなかった？	<END_STR>
+
+<START>うん　今度また誘うね<END_STR>
+
+<START>おふろだとせまいからね<END_STR>
+
+<START>今度は一緒におふろに入ろうか<END_STR>
+
+<START>人が少なければもっといいよね<END_STR>
+
+<START>実は冗談だったんだよ<END_STR>
+
+<START>ホントだよ<END_STR>
+
+<START>親だって知らないこともあるよ<END_STR>
+
+<START>じゃあ２人だけのヒミツだね	<END_STR>
+
+<START>周りの人にも聞こえてかもね	<END_STR>
+
+<START>オレって口が軽いからなぁ<END_STR>
+
+<START>やっぱり公園かな<END_STR>
+
+<START>人には言えない場所だよ<END_STR>
+
+<START>女子大生のいる短大かな<END_STR>
+
+<START>ちょっとエッチな雑誌だよ<END_STR>
+
+<START>オレもファッション雑誌かな	<END_STR>
+
+<START>漫画ばっかり読んでるよ<END_STR>
+
+<START>汗かいてちょっとやせたかも<END_STR>
+
+<START>じゃあ秋になったら行こうか<END_STR>
+
+<START>今度はオレにもこがせてよ<END_STR>
+
+<START>あの神社は大吉が多いんだって<END_STR>
+
+<START>それよりオレの凶と交換してよ<END_STR>
+
+<START>年に１回だけにしときなよ<END_STR>
+
+<START>また来年のお正月にね<END_STR>
+
+<START>じゃあ　また誘うね<END_STR>
+
+<START>ストーカーみたいだね<END_STR>
+
+<START>フルシアンテは女好きなんだね<END_STR>
+
+<START>よっぽど好きなんだろうね<END_STR>
+
+<START>今とあんまり変わらないよ<END_STR>
+
+<START>いつも伸恵にいじめられてたよ<END_STR>
+
+<START>ちょっと恥ずかしいな…<END_STR>
+
+<START>怖いから遠慮しとくよ<END_STR>
+
+<START>もちろん！　楽しみだなぁ<END_STR>
+
+<START>電車でもよければ…<END_STR>
+
+<START>[曜日]<END_STR>
+
+<START>[場所]<END_STR>
+
+<START>[名前]<END_STR>
+
+<START>自宅<END_STR>
+
+<START>伊藤家<END_STR>
+
+<START>松岡家<END_STR>
+
+<START>桜木家<END_STR>
+
+<START>コッポラ家<END_STR>
+
+<START>コンビニ<END_STR>
+
+<START>スーパー<END_STR>
+
+<START>小学校<END_STR>
+
+<START>タバコ屋<END_STR>
+
+<START>居酒屋<END_STR>
+
+<START>ファミレス<END_STR>
+
+<START>図書館<END_STR>
+
+<START>佐鳴湖<END_STR>
+
+<START>神社<END_STR>
+
+<START>駅<END_STR>
+
+<START>公園<END_STR>
+
+<START>短大<END_STR>
+
+<START>プール<END_STR>
+
+<START>月<END_STR>
+
+<START>火<END_STR>
+
+<START>水<END_STR>
+
+<START>木<END_STR>
+
+<START>金<END_STR>
+
+<START>土<END_STR>
+
+<START>日<END_STR>
+
+<START>nob<END_STR>
+
+<START>chi<END_STR>
+
+<START>miu<END_STR>
+
+<START>mtr<END_STR>
+
+<START>ana<END_STR>
+
+<START>NO<END_STR>
+
+<START>CH<END_STR>
+
+<START>MI<END_STR>
+
+<START>MA<END_STR>
+
+<START>AN<END_STR>
+
+<START>IZ<END_STR>
+
+<START>FA<END_STR>
+
+<START>TO<END_STR>
+
+<START>SA<END_STR>
+
+<START>JI<END_STR>
+
+<START>KO<END_STR>
+
+<START>PU<END_STR>
+
+<START>A<END_STR>
+
+<START>B<END_STR>
+
+<START>C<END_STR>
+
+<START>D<END_STR>
+
+<START>E<END_STR>
+
+<START>F<END_STR>
+
+<START>menu/mail/mail%03d.tips<END_STR>
+
+<START>menu/telephone2.tips<END_STR>
+
+<START>layout/layout.tips<END_STR>
+
+<START>none state
+<END_STR>
+
+<START>%s/TEL%s02_001%s_%s<END_STR>
+
+<START>%s/TEL%s02_002%s_%s<END_STR>
+
+<START>%s/TEL%s06_001_%s<END_STR>
+
+<START>%s/TEL%s06_002%s_%s<END_STR>
+
+<START>menu/telephone1.tips<END_STR>
+
+<START><END_STR>
+
+<START><END_STR>
+
+<START><END_STR>
+
+<START><END_STR>
+
+<START>なかなかタバコがやめられない
+そんなあなたにオススメの一冊<END_STR>
+
+<START>色んなお菓子のレシピがのっている
+お菓子作りに役立つ本<END_STR>
+
+<START>雑誌やＴＶで大活躍の
+あの先生が監修した占いの大全集<END_STR>
+
+<START>全世界で２０００万部を突破し
+大人から子どもまで人気のシリーズ<END_STR>
+
+<START>人気の英会話番組から出た
+ＯＬの間で話題の英会話ハウツー本<END_STR>
+
+<START>ティーンズ向けのファッション雑誌
+８月号は水着特集<END_STR>
+
+<START>ワンピースタイプの子ども用水着
+キュートなチェック柄がポイント<END_STR>
+
+<START>ハート型のモチーフが２コついている
+かわいいヘアゴム<END_STR>
+
+<START>ネコの耳がついたかわいい帽子
+かぶるとネコ語になってしまう（？）<END_STR>
+
+<START>カラフルなデザインの浮き輪<END_STR>
+
+<START>女の子が大好きなクマのぬいぐるみ<END_STR>
+
+<START>夏祭りで美羽に買ってあげたお面
+キャラになりきって遊ぶ<END_STR>
+
+<START>シンプルなデザインのオイルライター
+ワイルドなシルバータイプ<END_STR>
+
+<START>車にひかれても無傷ですむというほど
+ご利益のあるお守り<END_STR>
+
+<START>夏祭りでアナに買ってあげたりんご飴
+食べると舌が赤くなる<END_STR>
