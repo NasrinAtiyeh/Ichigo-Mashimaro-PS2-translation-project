@@ -1,4 +1,4 @@
-This is my attempt to translate Ichigo Mashimaro (SLPS-25547). I'm trying to keep the translation as close as I can while making dialogue sound natural, and not choppy like a direct transliteration would be. Any help would be appreciated.
+This is my attempt to translate Ichigo Mashimaro (SLPS-25547). I'm trying to keep the translation as close as I can while making dialogue sound natural, and not choppy like a direct transliteration would be. The readme is used as notes for future use. Any help would be appreciated.
 
 _
 
