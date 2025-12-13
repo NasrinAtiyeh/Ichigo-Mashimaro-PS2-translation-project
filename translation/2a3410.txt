@@ -1,0 +1,893 @@
+<START>[face:主人公:普通]あ　美羽ちゃん…ごめんね　お待たせ<END_STR>
+
+<START>[face:美羽:普通]あいよー<END_STR>
+
+<START>[face:美羽:笑顔小]おっ　何それー？
+占いの本？　おもしろそうじゃん？<END_STR>
+
+<START>[face:主人公:普通]うん　美羽ちゃんにあげようと思って<END_STR>
+
+<START>[face:美羽:笑顔大]え　いいの？
+じゃあ　さっそくお兄ちゃんのこと
+占ってみようよ　…どれどれ<END_STR>
+
+<START>[face:主人公:普通]……<END_STR>
+
+<START>[face:美羽:笑顔大]えぇと…
+「今日の占いカウントダウンを
+参考にしましょう」だって<END_STR>
+
+<START>[face:主人公:普通]そ…そんな適当な本じゃないだろ<END_STR>
+
+<START>[face:美羽:笑顔小]お？　あたしにくれるの？<END_STR>
+
+<START>[face:美羽:笑顔大]いいのー？
+今月号買わなくて済んだよ
+ありがとう　お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]うん　どういたしまして<END_STR>
+
+<START>[face:美羽:普通]何　その水着？<END_STR>
+
+<START>[face:主人公:普通]いや　美羽ちゃんにあげようと思って<END_STR>
+
+<START>[face:美羽:笑顔小]え　ホントに？　ありがとー
+かわいい水着だね<END_STR>
+
+<START>[face:主人公:普通]うん　似合うと思うよ<END_STR>
+
+<START>[face:美羽:笑顔小]お兄ちゃん　意外とセンスいいんだね<END_STR>
+
+<START>[face:主人公:普通]…ど　どうも<END_STR>
+
+<START>[face:美羽:笑顔小]あ　浮き輪だー
+それ　あたしにくれるの？<END_STR>
+
+<START>[face:主人公:普通]うん　よかったら受け取ってよ<END_STR>
+
+<START>[face:美羽:笑顔小]ありがとー　お兄ちゃん<END_STR>
+
+<START>[face:美羽:困る]…何　それ？<END_STR>
+
+<START>[face:主人公:普通]いや　美羽ちゃんにあげようと思って…<END_STR>
+
+<START>[face:美羽:困る]ふーん…　いらないよ
+てゆか　それもらっても
+リアクション取りづらいよね<END_STR>
+
+<START>[face:主人公:普通]…そ　そうですか<END_STR>
+
+<START>[face:美羽:普通]暑いからはやく入ろうよ<END_STR>
+
+<START>[face:主人公:普通]あ　うん<END_STR>
+
+<START>[face:美羽:笑顔小]ねー　お兄ちゃん
+あれに乗ってきていい？<END_STR>
+
+<START>[face:主人公:普通]あれって…　ウォータースライダー？<END_STR>
+
+<START>怖くないの？<END_STR>
+
+<START>オレもすべろうかな<END_STR>
+
+<START>[face:主人公:普通]怖くないの？<END_STR>
+
+<START>[face:美羽:困る]えー　まさかぁ
+あんなの怖いわけないじゃん<END_STR>
+
+<START>[face:主人公:普通]そっか…じゃあ　気をつけてな<END_STR>
+
+<START>[face:美羽:笑顔小]はーい<END_STR>
+
+<START>[face:主人公:普通]子供ってスライダー好きだよなぁ
+オレも子供の時　すごく好きだったもんな<END_STR>
+
+<START>[face:美羽:普通]うらぁーっ<END_STR>
+
+<START>[face:美羽:笑顔大]お兄ちゃん　ただいまー<END_STR>
+
+<START>[face:主人公:普通]お　お帰り
+ずいぶんハデなすべり方だったね…<END_STR>
+
+<START>[face:美羽:笑顔大]いやぁ　金閣寺から飛び降りる気分でした<END_STR>
+
+<START>[face:主人公:普通]……それ　なんか色々まちがってるぞ<END_STR>
+
+<START>[face:主人公:普通]オレもすべろうかな<END_STR>
+
+<START>[face:美羽:笑顔小]じゃあ　お兄ちゃん先に行ってきていいよ<END_STR>
+
+<START>[face:主人公:普通]えっ　いいの？
+じゃあ　行ってくるね<END_STR>
+
+<START>[face:美羽:笑顔小]うん<END_STR>
+
+<START>[face:美羽:普通]あれ　もう戻ってきたの？<END_STR>
+
+<START>[face:主人公:普通]…いや　なんか子供ばっかりで
+恥ずかしくなって戻ってきた…<END_STR>
+
+<START>[face:美羽:困る]…そりゃそうだよ　あれ子供用だもん
+あんた自分の年考えなよ<END_STR>
+
+<START>[face:主人公:普通]……そうですね<END_STR>
+
+<START>[face:美羽:困る]まったく　暑い中待たせんなよなー<END_STR>
+
+<START>[face:主人公:普通]あ　ごめん…<END_STR>
+
+<START>[face:美羽:笑顔小]まあ　あたしも今来たところだけど<END_STR>
+
+<START>[face:主人公:普通]そ　そうなんだ…<END_STR>
+
+<START>[face:主人公:普通]じゃあ入ろうか<END_STR>
+
+<START>[face:主人公:普通]今日は　いい天気だから
+プールに来てよかったよね<END_STR>
+
+<START>[face:美羽:笑顔小]んー　そうだね<END_STR>
+
+<START>[face:主人公:普通]今日はずいぶん人も多いなぁ
+はぐれないようにしないと<END_STR>
+
+<START>[face:美羽:普通]うりゃぁーっ<END_STR>
+
+<START>[face:主人公:普通]み　美羽ちゃん…？<END_STR>
+
+<START>[face:主人公:普通]ちょ　ちょっと美羽ちゃん？
+あれ…　飛び込んだまま
+いなくなっちゃったぞ<END_STR>
+
+<START>[face:主人公:普通]まさか　頭打っておぼれたんじゃ…
+……おーい　美羽ちゃん
+どこに行ったんだろ　…あ　いた<END_STR>
+
+<START>[face:主人公:普通]あんなとこに…　何やってんだあいつは<END_STR>
+
+<START>他人のフリしようかな…<END_STR>
+
+<START>まさか本当に頭打ったんじゃ…<END_STR>
+
+<START>[face:主人公:普通]他人のフリしようかな…<END_STR>
+
+<START>[face:美羽:真剣]こらぁーっ　お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]な　何…？<END_STR>
+
+<START>[face:美羽:真剣]ちゃんとツッコンでよ　もうー
+死体のまま　流れるプールで
+１周しちゃうところだったよ<END_STR>
+
+<START>[face:主人公:普通]…そ　そっか　ごめんね<END_STR>
+
+<START>[face:主人公:普通]（…それはそれで　おもしろいけど）<END_STR>
+
+<START>[face:主人公:普通]まさか本当に頭打ったんじゃ…<END_STR>
+
+<START>[face:主人公:普通]み　美羽ちゃん…大丈夫だったの？<END_STR>
+
+<START>[face:美羽:笑顔大]ねーねー　お兄ちゃん<END_STR>
+
+<START>[face:美羽:笑顔大]すいとんの術<END_STR>
+
+<START>[face:主人公:普通]…なんかちがう気がするけど<END_STR>
+
+<START>[face:主人公:普通]美羽ちゃん　まだ来てないのかな？
+もうちょっと待ってみよう<END_STR>
+
+<START>[face:主人公:普通]しっかし　今日も暑いよなぁ
+なんだか　のど渇いてきた…<END_STR>
+
+<START>[face:主人公:普通]もしもし…　[苗字]ですけど<END_STR>
+
+<START>[face:美羽:普通]もしもし　わたしだが<END_STR>
+
+<START>[face:主人公:普通]あ…　み　美羽ちゃん？
+今日はどうしたの？<END_STR>
+
+<START>[face:美羽:普通]今日は行けなくなった　あとは頼む<END_STR>
+
+<START>[face:主人公:普通]な　なんだったんだ今のは…
+あとは頼むとか言われてもなぁ…<END_STR>
+
+<START>[face:美羽:普通]おーい　そこのおっちゃん<END_STR>
+
+<START>[face:主人公:普通]な　なんだ美羽ちゃんか…
+…おっちゃんとはどういう…<END_STR>
+
+<START>[face:美羽:普通]ねぇねぇ　花火買ってきたんだが
+一緒にやらない？<END_STR>
+
+<START>[face:主人公:普通]え　花火？　…いいけど<END_STR>
+
+<START>[face:美羽:真剣]よーし　じゃあ
+おめーら　ついてきやがれー<END_STR>
+
+<START>[face:美羽:笑顔大]ねーお兄ちゃん　見て見てー
+きれいだねー<END_STR>
+
+<START>[face:主人公:普通]うん　きれいだね<END_STR>
+
+<START>[face:美羽:困る]もうー　もっとちゃんと見てよ<END_STR>
+
+<START>[face:主人公:普通]あっ　あぶねーな
+近づけんなって！<END_STR>
+
+<START>[face:主人公:普通]（美羽ちゃん…なんか楽しそうだな）<END_STR>
+
+<START>今日は楽しかったね<END_STR>
+
+<START>気をつけて帰れよ<END_STR>
+
+<START>[face:主人公:普通]今日は楽しかったね<END_STR>
+
+<START>[face:美羽:普通]うーん　まあまあかな<END_STR>
+
+<START>[face:主人公:普通]そ　そうですか…
+じゃあ　また一緒に花火しようね<END_STR>
+
+<START>[face:美羽:笑顔大]うん　お兄ちゃんが生きて帰れたらね<END_STR>
+
+<START>[face:主人公:普通]え…？　それ　どういう意味…<END_STR>
+
+<START>[face:主人公:普通]あっ　なんだこれ…！
+足にロケット花火がついてるッ！<END_STR>
+
+<START>[face:美羽:笑顔大]じゃあ
+ロケットダッシュで帰ってください<END_STR>
+
+<START>[face:主人公:普通]…ア　アホか！
+やけどするだろが！！<END_STR>
+
+<START>[face:主人公:普通]気をつけて帰れよ<END_STR>
+
+<START>[face:美羽:笑顔小]お兄ちゃんこそ　気をつけて帰れよ<END_STR>
+
+<START>[face:主人公:普通]……家まで送ってこうか？<END_STR>
+
+<START>[face:美羽:笑顔小]んー　いや大丈夫
+…ねぇお兄ちゃん　これあげる<END_STR>
+
+<START>[face:主人公:普通]え　なんかくれるの？
+…なんだこれ？　……へび花火かよ<END_STR>
+
+<START>[face:美羽:笑顔大]心が疲れたときに火つけてね
+いやされるから<END_STR>
+
+<START>[face:主人公:普通]……いやされねぇよ
+こんなウネウネするやつ…<END_STR>
+
+<START>[face:主人公:普通]美羽ちゃん　まだ来てないのかな？<END_STR>
+
+<START>[face:美羽:普通]お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]あ　美羽ちゃん<END_STR>
+
+<START>[face:美羽:笑顔小]ねーお兄ちゃん
+今日はクツ飛ばししよーぜぃ<END_STR>
+
+<START>[face:主人公:普通]ク　クツ飛ばし？
+…よし　やろうか<END_STR>
+
+<START>[face:主人公:普通]いやぁ　なつかしいなー
+オレも子供のときは　よくやったもんだ
+誰にも負けたことがなくて…<END_STR>
+
+<START>[face:美羽:困る]そんなことはどうでもいいからさー
+先にお兄ちゃんやってよ<END_STR>
+
+<START>[face:主人公:普通]え　そんなことって…
+…わかったよ<END_STR>
+
+<START>[face:主人公:普通]よし　行くぞ…<END_STR>
+
+<START>とりゃーーッ<END_STR>
+
+<START>ぬおぉーーっ<END_STR>
+
+<START>きえぇぇぇーー<END_STR>
+
+<START>[face:主人公:普通]
+DとりゃーーッQ<END_STR>
+
+<START>[face:美羽:驚き]おぉーっ<END_STR>
+
+<START>[face:主人公:普通]あ…　やべ<END_STR>
+
+<START>[face:美羽:呆れる]あーあ　屋根に乗っちゃったよ<END_STR>
+
+<START>[face:主人公:普通]…ホントだ…<END_STR>
+
+<START>[face:美羽:呆れる]やれやれ　子供相手にムキにならなくても<END_STR>
+
+<START>[face:主人公:普通]
+DぬおぉーーっQ<END_STR>
+
+<START>[face:主人公:普通]あれ　クツどこいった…？<END_STR>
+
+<START>[face:美羽:呆れる]…ねぇ　あんたの足元にあるの　何かね？<END_STR>
+
+<START>[face:主人公:普通]あ　あれ…オレのクツだ
+なんでこんなところに…？
+遠くに飛ばしたはずなんだけどな<END_STR>
+
+<START>[face:主人公:普通]…空振りしちゃったかな<END_STR>
+
+<START>[face:美羽:呆れる]…だっさいなー　お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]
+DきえぇぇぇーーQ<END_STR>
+
+<START>[face:主人公:普通]いててて…！<END_STR>
+
+<START>[face:美羽:驚き]お？<END_STR>
+
+<START>[face:主人公:普通]気合入れすぎて　足つった…<END_STR>
+
+<START>[face:美羽:呆れる]だ　だせーっ<END_STR>
+
+<START>[face:主人公:普通]…きょ　今日のところは
+これぐらいで　かんべんしてやるか<END_STR>
+
+<START>[face:美羽:呆れる]ふ…ふるい<END_STR>
+
+<START>[face:主人公:普通]美羽ちゃん　まだ来てないみたいだな<END_STR>
+
+<START>[face:美羽:笑顔小]ねーねー　お兄ちゃん
+また今日も絵馬にお願いごと書かない？<END_STR>
+
+<START>[face:主人公:普通]え…　また？　この前も書いたじゃん
+そんなに何度も書くもんじゃないぞ<END_STR>
+
+<START>[face:美羽:笑顔小]えーいいじゃんかよぅ
+ほら　行くぞー<END_STR>
+
+<START>[face:主人公:普通]あ　行っちゃった…
+前に書いたのが
+よっぽど楽しかったんだろうな…<END_STR>
+
+<START>[face:主人公:普通]今日は　なんて書こうかな…<END_STR>
+
+<START>健康でいられますように<END_STR>
+
+<START>みんなと仲良くなれますように<END_STR>
+
+<START>宇宙征服<END_STR>
+
+<START>[face:主人公:普通]健康でいられますように<END_STR>
+
+<START>[face:美羽:笑顔大]できたーっ<END_STR>
+
+<START>[face:主人公:普通]え　もうできたんだ
+今日はなんて書いたの？<END_STR>
+
+<START>[face:美羽:笑顔大]「世界制服」<END_STR>
+
+<START>[face:主人公:普通]……あ　そう
+どーでもいいけど漢字まちがってるぞ
+「制服」じゃなくて「征服」だろ？<END_STR>
+
+<START>[face:美羽:困る]えっ…<END_STR>
+
+<START>[face:美羽:困る]…世界中で同じ制服を着るんだよ<END_STR>
+
+<START>[face:主人公:普通]うそつけ<END_STR>
+
+<START>[face:美羽:困る]えー　じゃあお兄ちゃんは
+なんて書いたんだよー<END_STR>
+
+<START>[face:主人公:普通]オレ…？
+「健康でいられますように」って<END_STR>
+
+<START>[face:美羽:呆れる]なんだそれー？　じじくさいなぁ
+もっと若者らしい　お願いにしなよ<END_STR>
+
+<START>[face:主人公:普通]……若者らしいって　例えば？<END_STR>
+
+<START>[face:美羽:笑顔小]うーん　そうだなぁ
+ディスコでフィーバーしたいとか…<END_STR>
+
+<START>[face:主人公:普通]……おまえ　いくつだよ<END_STR>
+
+<START>[face:主人公:普通]みんなと仲良くなれますように<END_STR>
+
+<START>[face:主人公:普通]オレ…？
+「みんなと仲良くなれますように」って<END_STR>
+
+<START>[face:美羽:呆れる]なんだそれー？　普通じゃん
+つまんないなぁ<END_STR>
+
+<START>[face:主人公:普通]…いや　願いごとに
+つまんないとか　ねぇだろ…<END_STR>
+
+<START>[face:主人公:普通]宇宙征服<END_STR>
+
+<START>[face:主人公:普通]オレ…？　「宇宙征服」<END_STR>
+
+<START>[face:美羽:固有]な…　ま　負けた…<END_STR>
+
+<START>[face:主人公:普通]美羽ちゃん　お待たせ<END_STR>
+
+<START>[face:美羽:普通]あ　お兄ちゃん<END_STR>
+
+<START>[face:美羽:普通]ねー　今日は神社なんかで何すんの？<END_STR>
+
+<START>[face:主人公:普通]いや　それがまだ決めてないんだけど…<END_STR>
+
+<START>[face:美羽:真剣]えー　なんだよそれ
+あたし忙しいんだからねー<END_STR>
+
+<START>[face:主人公:普通]じゃ　じゃあ…
+絵馬に願いごと書いてみない？<END_STR>
+
+<START>[face:美羽:笑顔大]おー　おもしろそうじゃん　それ
+やろうやろう<END_STR>
+
+<START>[face:美羽:笑顔小]完成ーっ<END_STR>
+
+<START>[face:主人公:普通]お　もうできたんだ
+なんて書いた？<END_STR>
+
+<START>[face:美羽:笑顔小]「社長になれますように」って<END_STR>
+
+<START>[face:主人公:普通]は…？　そうなんだ…
+ところでなんの会社の社長？<END_STR>
+
+<START>[face:美羽:笑顔小]んー　大きいとこならどこでもいいよ<END_STR>
+
+<START>[face:主人公:普通]そ　そうなんだ……がんばってね<END_STR>
+
+<START>[face:美羽:笑顔小]お兄ちゃんもあたしの会社に
+入れてあげてもいいよ<END_STR>
+
+<START>[face:主人公:普通]そ　そりゃどうも…
+…で　どんな仕事するの？<END_STR>
+
+<START>[face:美羽:真剣]ん～そうだな　君は始末書を書きなさい<END_STR>
+
+<START>[face:主人公:普通]それ…仕事でミスしたときに
+書くやつだぞ<END_STR>
+
+<START>[face:美羽:真剣]なんだ　ミスしたのか君は
+だらしないやつだな<END_STR>
+
+<START>[face:美羽:普通]ねー　お兄ちゃん
+今日はスワンボートに乗ろうよ<END_STR>
+
+<START>いや　ゆっくり話そうよ<END_STR>
+
+<START>いいね　乗ろう<END_STR>
+
+<START>[face:主人公:普通]いや　ゆっくり話そうよ<END_STR>
+
+<START>[face:美羽:困る]えー　ボート乗らないのかぁ
+つまんないなー<END_STR>
+
+<START>[face:主人公:普通]ご　ごめん…<END_STR>
+
+<START>[face:美羽:真剣]もう　しょーがないなぁ
+じゃあ　お兄ちゃんに
+こわい話　聞かせてあげるよ<END_STR>
+
+<START>[face:主人公:普通]こ　こわい話？<END_STR>
+
+<START>[face:美羽:真剣]うん…　人から聞いた話なんだけど<END_STR>
+
+<START>[face:主人公:普通]…そうなんだ
+まあいいや　聞かせてよ<END_STR>
+
+<START>[face:美羽:真剣]…満月の夜　若いカップルが
+湖でボートに乗っていました<END_STR>
+
+<START>[face:美羽:真剣]…すると突然　誰かに引っ張られるように
+男がボートから落ちてしまいました<END_STR>
+
+<START>[face:主人公:普通]（なんだか本格的だな…）<END_STR>
+
+<START>[face:美羽:真剣]すると　湖の中から
+女神が出てきて言いました<END_STR>
+
+<START>[face:美羽:真剣]「落ちたのはイケメンの彼氏ですか？
+それともブサイクな彼氏ですか？」<END_STR>
+
+<START>[face:美羽:真剣]女は答えました
+「いいえ　あたしの彼氏は
+	とってもブサイクです」<END_STR>
+
+<START>[face:美羽:真剣]すると　女神は言いました
+「あなたは美人なのに　もったいないね」
+…彼氏は二度と戻ってきませんでした<END_STR>
+
+<START>[face:主人公:普通]……なんだそれ<END_STR>
+
+<START>[face:美羽:笑顔大]じゃあ　お兄ちゃん
+さっそく湖に落ちてみてよ<END_STR>
+
+<START>[face:主人公:普通]
+D断る！Q<END_STR>
+
+<START>[face:主人公:普通]いいね　乗ろう<END_STR>
+
+<START>[face:美羽:笑顔大]おぉー　お兄ちゃんこれ楽しいねーっ<END_STR>
+
+<START>[face:主人公:普通]ちょ　ちょっと美羽ちゃん
+こぎすぎじゃないか？　あぶないって<END_STR>
+
+<START>[face:美羽:笑顔大]へーきへーき
+行くよー　美羽ちゃん号発進ーっ<END_STR>
+
+<START>[face:主人公:普通]お…おわっ！<END_STR>
+
+<START>[face:美羽:笑顔大]おっ　カップルのボート発見！
+突撃ーッ<END_STR>
+
+<START>[face:主人公:普通]ア　アホ…やめとけって！<END_STR>
+
+<START>[face:主人公:普通]はぁ…　死ぬかと思った<END_STR>
+
+<START>[face:美羽:笑顔大]はー　楽しかった
+お兄ちゃん　また一緒に乗ろうね<END_STR>
+
+<START>[face:主人公:普通]い　いや遠慮しとくよ…<END_STR>
+
+<START>[face:美羽:普通]おーい　お兄ちゃーん<END_STR>
+
+<START>[face:主人公:普通]あ　美羽ちゃん
+もう来てたんだ　ごめんね<END_STR>
+
+<START>[face:美羽:笑顔小]ねーねー　今日は
+佐鳴湖の周り　走って競争しない？<END_STR>
+
+<START>[face:主人公:普通]え…　１周するの？
+けっこう距離あると思うけど…<END_STR>
+
+<START>[face:美羽:笑顔小]ふーん…
+じゃあ　お兄ちゃんの負けー！<END_STR>
+
+<START>[face:主人公:普通]な　なんだよそれ
+……わかったよ　競争しよう<END_STR>
+
+<START>[face:美羽:笑顔大]よーし　決まりぃ
+じゃあいくよ　スタート！<END_STR>
+
+<START>[face:主人公:普通]ちょ…　ちょっとまって<END_STR>
+
+<START>[face:主人公:普通]やっぱ運動不足かな…
+でも　美羽ちゃんには
+負けてないみたいだな<END_STR>
+
+<START>[face:主人公:普通]まだ抜かされてないし…<END_STR>
+
+<START>[face:美羽:困る]もう　遅いなぁお兄ちゃん
+待ちくたびれたぞ<END_STR>
+
+<START>[face:主人公:普通]ハァハァ……
+あ　あれ…！？
+美羽ちゃん　いつの間にゴールしたの？<END_STR>
+
+<START>[face:主人公:普通]オレ　抜かされたっけ…？
+おかしいなぁ<END_STR>
+
+<START>[face:美羽:困る]じゃあ　あたしの勝ちってことで<END_STR>
+
+<START>う　うん…まいりました<END_STR>
+
+<START>ズルしただろ<END_STR>
+
+<START>ワープが使えるのか…！<END_STR>
+
+<START>[face:主人公:普通]う　うん…まいりました<END_STR>
+
+<START>[face:美羽:困る]まったく　だらしないな<END_STR>
+
+<START>[face:主人公:普通]のど渇いたから　自販機で何か買おうかな
+…スポーツドリンクにしよう<END_STR>
+
+<START>[face:主人公:普通]あっ<END_STR>
+
+<START>[face:主人公:普通]……勝手に押すな！<END_STR>
+
+<START>[face:主人公:普通]ズルしただろ<END_STR>
+
+<START>[face:美羽:固有]な…　あたしがそんなこと
+するわけないじゃん
+なんで疑うんだよー　ひどいよなぁもう<END_STR>
+
+<START>[face:主人公:普通]…じゃあ　どうやって勝ったんだよ
+オレ　１回も抜かれてないぞ<END_STR>
+
+<START>[face:美羽:真剣]…決まってんじゃん
+瞬間移動だよ<END_STR>
+
+<START>[face:主人公:普通]……自信たっぷりだな　おい<END_STR>
+
+<START>[face:主人公:普通]ワープが使えるのか…！<END_STR>
+
+<START>[face:美羽:驚き]な…　なんでわかった
+実は修行して覚えたばっかで…<END_STR>
+
+<START>[face:主人公:普通]……そんなわけねーだろ
+ズルしやがって<END_STR>
+
+<START>[face:美羽:困る]ズル？　なんのことだか…<END_STR>
+
+<START>[face:主人公:普通]バレバレだよ
+どうせスタート地点で待ってたんだろ
+オレだけ走ってたのがアホみたいだよ…<END_STR>
+
+<START>[face:美羽:困る]……<END_STR>
+
+<START>[face:主人公:普通]図星だろ<END_STR>
+
+<START>[face:美羽:笑顔大]ナイスラン<END_STR>
+
+<START>[face:主人公:普通]…おい！<END_STR>
+
+<START>[face:主人公:普通]美羽ちゃん…　まだ来てないや
+中にいるのかな？<END_STR>
+
+<START>[face:主人公:普通]あ　美羽ちゃん　来てくれたんだ<END_STR>
+
+<START>[face:主人公:普通]美羽ちゃん　今日は何の本を読むの？<END_STR>
+
+<START>[face:美羽:普通]んー「ハンコください」って本<END_STR>
+
+<START>[face:主人公:普通]な　何それ…？<END_STR>
+
+<START>[face:美羽:笑顔小]ハンコの作り方が書いてあるんだよ
+あたしもハンコ作ろうと思って<END_STR>
+
+<START>[face:主人公:普通]そ　そうなんだ…
+…で　どんなハンコ作る気なの？<END_STR>
+
+<START>[face:美羽:笑顔小]「校長」ハンコ<END_STR>
+
+<START>[face:主人公:普通]な…　なんだそれ
+そんなもん作ってどうすんの？<END_STR>
+
+<START>[face:美羽:笑顔大]ハンコ作ったんねん　コレ！<END_STR>
+
+<START>[face:主人公:普通]い…いや　だから
+何のために作るの？<END_STR>
+
+<START>[face:美羽:普通]校長になったときのためだけど<END_STR>
+
+<START>[face:主人公:普通]いや　なってから作れよ…<END_STR>
+
+<START>[face:主人公:普通]あ　美羽ちゃんごめんね　待った？<END_STR>
+
+<START>[face:美羽:普通]今来たところ<END_STR>
+
+<START>[face:主人公:普通]そ　そっか<END_STR>
+
+<START>[face:主人公:普通]美羽ちゃんはいつも
+どんな本を読んでるの？<END_STR>
+
+<START>[face:美羽:普通]んー　読むというか
+最近マンガを書いてるんだけど<END_STR>
+
+<START>[face:主人公:普通]え　自分でマンガ書いてるの？
+すごいね　…で　どんな話？<END_STR>
+
+<START>[face:美羽:普通]「女にモテモテの課長の話」<END_STR>
+
+<START>[face:主人公:普通]…へ　へぇ…おもしろそうだね<END_STR>
+
+<START>[face:美羽:笑顔小]でしょ？　でね
+その課長はどんどん出世していくんだよ<END_STR>
+
+<START>[face:主人公:普通]そ…　そうなんだ
+ひょっとしてその課長は　部長になったり
+取締役になったりしないよね<END_STR>
+
+<START>[face:美羽:驚き]な　なんでわかったの？
+お兄ちゃん…さては
+あたしのアイデア盗んだな<END_STR>
+
+<START>[face:主人公:普通]い　いや…盗んだって言われても…
+ところで…<END_STR>
+
+<START>課長はどんな仕事してんの？<END_STR>
+
+<START>めざすはドラマ化だよね<END_STR>
+
+<START>[face:主人公:普通]課長はどんな仕事してんの？<END_STR>
+
+<START>[face:美羽:普通]女にモテるための仕事<END_STR>
+
+<START>[face:主人公:普通]…なんだそれ
+具体的には　どんな内容の仕事？<END_STR>
+
+<START>[face:美羽:困る]うーん　よくわかんないけど
+「オレは仕事ができる」ってアピールとか<END_STR>
+
+<START>[face:主人公:普通]…いや　全然具体的じゃねぇぞ<END_STR>
+
+<START>[face:美羽:困る]ま　具体的に言うと
+「課長」ってことだよね<END_STR>
+
+<START>[face:主人公:普通]…いや　それは役職だろ
+どんな仕事してんの？<END_STR>
+
+<START>[face:美羽:困る]え？　だから
+「オレは仕事ができる」って…<END_STR>
+
+<START>[face:主人公:普通]いや　もういいよ……<END_STR>
+
+<START>[face:主人公:普通]めざすはドラマ化だよね<END_STR>
+
+<START>[face:美羽:困る]いや　どちらかというと３Ｄアニメで<END_STR>
+
+<START>[face:主人公:普通]そ　そうなんだ…大変そうだね
+てゆか　３Ｄにする意味あんのかな<END_STR>
+
+<START>[face:美羽:困る]うーん　ないけど…
+…じゃあ　課長の腕から
+ミサイルが出るのはどう？<END_STR>
+
+<START>[face:主人公:普通]…いや　どうって言われても…
+話と関係ないじゃん<END_STR>
+
+<START>[face:美羽:笑顔小]実は課長は
+地球を救うヒーローだったとか？<END_STR>
+
+<START>[face:主人公:普通]……もう勝手にしてくれ<END_STR>
+
+<START>[face:主人公:普通]美羽ちゃん　まだかな…<END_STR>
+
+<START>[face:美羽:普通]お兄ちゃん　待った？<END_STR>
+
+<START>[face:主人公:普通]ううん　今来たところだから<END_STR>
+
+<START>[face:美羽:笑顔小]ねぇねぇ　お兄ちゃん
+ここのウェイトレス
+スカート短いと思わない？<END_STR>
+
+<START>[face:主人公:普通]ま　まあそうだね…
+…あれ？　そういえば
+伸恵もここでバイトしてたんだよな<END_STR>
+
+<START>[face:美羽:普通]うん　そうだよ<END_STR>
+
+<START>[face:主人公:普通]……ってことは伸恵も
+あのスカートはいてたってこと…？<END_STR>
+
+<START>[face:美羽:普通]そうだけど…<END_STR>
+
+<START>[face:主人公:普通]ふーん…<END_STR>
+
+<START>よっぽど時給がよかったんだな<END_STR>
+
+<START>伸恵には似合わねーな…<END_STR>
+
+<START>見たかったなぁ<END_STR>
+
+<START>[face:主人公:普通]よっぽど時給がよかったんだな<END_STR>
+
+<START>[face:美羽:笑顔小]うん　時給がいいから選んだって
+おねーちゃん言ってた<END_STR>
+
+<START>[face:主人公:普通]そうだよな…　そうじゃなきゃ
+伸恵があんな短いヒラヒラのスカート
+はくわけないか<END_STR>
+
+<START>[face:美羽:笑顔大]ま　金に目がくらんだんでしょ<END_STR>
+
+<START>[face:主人公:普通]…そうとも言うね<END_STR>
+
+<START>[face:主人公:普通]伸恵には似合わねーな…<END_STR>
+
+<START>[face:美羽:真剣]…お兄ちゃん
+それ　おねーちゃんには
+言わないほうがいいぞ…<END_STR>
+
+<START>[face:主人公:普通]へ？<END_STR>
+
+<START>[face:美羽:真剣]ころされるよ　きっと<END_STR>
+
+<START>[face:主人公:普通]あ…　美羽ちゃん今の話　伸恵には…<END_STR>
+
+<START>[face:美羽:笑顔大]じゃあ　パフェおごって<END_STR>
+
+<START>[face:主人公:普通]え？　……あ　口止め料か
+…好きなだけ食べてください<END_STR>
+
+<START>[face:美羽:普通]ありがとうお兄ちゃん！<END_STR>
+
+<START>[face:主人公:普通]見たかったなぁ<END_STR>
+
+<START>[face:美羽:笑顔小]んー　意外と似合ってたよ<END_STR>
+
+<START>[face:主人公:普通]…へぇ　そうなんだ<END_STR>
+
+<START>[face:美羽:笑顔小]うん　全然似合ってなかったよ<END_STR>
+
+<START>[face:主人公:普通]どっちだよ！<END_STR>
+
+<START>[face:美羽:困る]あっ　お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]美羽ちゃん　ごめんねお待たせ<END_STR>
+
+<START>[face:美羽:困る]んー　しょうがないなぁ<END_STR>
+
+<START>[face:美羽:普通]じゃあ入ろっか<END_STR>
+
+<START>[face:主人公:普通]うん<END_STR>
+
+<START>[face:美羽:笑顔大]ねぇ　お兄ちゃん
+今日はケーキフェアの日だから
+ケーキが食べ放題なんだよー<END_STR>
+
+<START>[face:主人公:普通]へぇ　そーなんだ<END_STR>
+
+<START>[face:美羽:笑顔大]んじゃあ　食べよっか
+何から食べようかなー…<END_STR>
+
+<START>[face:美羽:困る]あー　なんか食べすぎたなぁ<END_STR>
+
+<START>[face:主人公:普通]…ずいぶん食べたね<END_STR>
+
+<START>[face:美羽:困る]…う　うん…<END_STR>
+
+<START>[face:主人公:普通]どうした？<END_STR>
+
+<START>[face:美羽:真剣]なんか…おなか痛くなってきた<END_STR>
+
+<START>[face:主人公:普通]そりゃそうだよ　あれだけ食べれば…<END_STR>
+
+<START>[face:美羽:真剣]うーん…まだ食べてないケーキあるから
+がんばらなきゃ<END_STR>
+
+<START>[face:主人公:普通]や　やめときなよ<END_STR>
+
+<START>[face:美羽:真剣]でもレモンパイとシフォンケーキと
+ミルフィーユとレアチーズケーキと
+パンプキンパイがあたしを呼んでる…<END_STR>
+
+<START>[face:主人公:普通]そ　それは気のせいだと思うけど…
+仕方ないなぁ<END_STR>
+
+<START>オレがかわりに食べてやるよ<END_STR>
+
+<START>持ち帰りで買ってあげるよ<END_STR>
+
+<START>太っても知らねぇぞ<END_STR>
+
+<START>[face:主人公:普通]オレがかわりに食べてやるよ<END_STR>
+
+<START>[face:美羽:呆れる]な…　それじゃ意味ないじゃん
+わけわかんないよ　まったくもう<END_STR>
+
+<START>[face:主人公:普通]…で　ですよね<END_STR>
+
+<START>[face:主人公:普通]持ち帰りで買ってあげるよ<END_STR>
+
+<START>[face:美羽:笑顔小]お？　さっすがお兄ちゃん
+話がわかるねー<END_STR>
+
+<START>[face:主人公:普通]どうせはじめから
+そのつもりだったんだろ<END_STR>
+
+<START>[face:美羽:笑顔小]うん！　そうだとも<END_STR>
+
+<START>[face:主人公:普通]太っても知らねぇぞ<END_STR>
+
+<START>[face:美羽:真剣]な…　それがレディーに言う言葉かなー
+デリカシーのない男だな<END_STR>
+
+<START>[face:主人公:普通]…ご　ごめん<END_STR>
+
+<START>[face:美羽:真剣]しょーがない　今日はあきらめるか…
+…さよなら　ケーキたち
+このケチな男のせいで　お別れだよ<END_STR>
+
+<START>[face:主人公:普通]……しょーがねぇな
+持ち帰りで買えばいいんだろ<END_STR>
+
+<START>[face:美羽:笑顔大]お？　さっすがお兄ちゃん
+話がわかるねー<END_STR>
+
+<START>[face:美羽:笑顔大]うん！　そうだとも<END_STR>
+
+<START>none course!!
+<END_STR>
