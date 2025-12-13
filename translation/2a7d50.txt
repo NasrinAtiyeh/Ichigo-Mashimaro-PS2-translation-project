@@ -1,0 +1,764 @@
+<START>[face:千佳:笑顔小]よかった…無事で<END_STR>
+
+<START>[face:主人公:普通]あれ？　千佳ちゃん
+オレ…千佳ちゃんのこと助けようとして…<END_STR>
+
+<START>[face:千佳:悲しい]うん　あたしは大丈夫…
+お兄ちゃんのおかげで
+ケガしなくてすんだから<END_STR>
+
+<START>[face:主人公:普通]そっか　…よかった<END_STR>
+
+<START>[face:千佳:悲しい]うん…ごめんね
+ありがとう　お兄ちゃん…<END_STR>
+
+<START>[face:千佳:悲しい]どっ　どうしよう…
+あたしのせいで　お兄ちゃんが…<END_STR>
+
+<START>[face:主人公:普通]あれ…　どうなってんだこれ？<END_STR>
+
+<START>[face:主人公:普通]…そっか　ゲームしながら寝ちゃったんだ
+最近	ゲームしすぎだから気をつけないとな<END_STR>
+
+<START>[face:主人公:普通]それにしても　リアルな夢だったなぁ……<END_STR>
+
+<START>[face:千佳:困る]あーお兄ちゃん　やっと来たぁ<END_STR>
+
+<START>[face:主人公:普通]あれ…　ごめんね
+オレ遅刻しちゃったかな？<END_STR>
+
+<START>[face:千佳:笑顔小]ううん
+ホントはあたしが早く来すぎちゃったんだ
+…今日　すごく楽しみだったから<END_STR>
+
+<START>[face:主人公:普通]そっか…　それじゃ
+いっぱい待たせちゃったね<END_STR>
+
+<START>[face:千佳:笑顔小]ううん　大丈夫<END_STR>
+
+<START>[face:千佳:笑顔大]え　あたしにくれるの？
+うわ　色んなお菓子がのってるー
+ありがとう　お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]うん　どういたしまして<END_STR>
+
+<START>[face:千佳:普通]え…その水着　あたしに？<END_STR>
+
+<START>[face:主人公:普通]うん　よかったら受け取ってよ<END_STR>
+
+<START>[face:千佳:笑顔小]…ガッコの水着あるから
+別にいいんだけど…　ありがとう
+なんかちょっと照れくさいな<END_STR>
+
+<START>[face:千佳:普通]それ　あたしにくれるの？<END_STR>
+
+<START>[face:千佳:笑顔小]ホントに？
+お兄ちゃん　ありがとね<END_STR>
+
+<START>[face:千佳:笑顔大]わぁー　かわいいね　そのぬいぐるみ<END_STR>
+
+<START>[face:主人公:普通]うん　千佳ちゃんにあげようと思って<END_STR>
+
+<START>[face:千佳:普通]え…　ホントに？
+いいの？　もらっちゃって<END_STR>
+
+<START>[face:千佳:笑顔大]やったー
+ありがとう　お兄ちゃん<END_STR>
+
+<START>[face:千佳:困る]え…　あたしに？
+うーん…　別にいらないよ<END_STR>
+
+<START>[face:主人公:普通]そ　そうだよね<END_STR>
+
+<START>[face:主人公:普通]じゃあ入ろうか<END_STR>
+
+<START>[face:千佳:普通]うんっ<END_STR>
+
+<START>[face:千佳:笑顔小]お兄ちゃん　流れるプールに行こうよ<END_STR>
+
+<START>[face:主人公:普通]うん<END_STR>
+
+<START>[face:千佳:笑顔小]ねぇ　ほら　はやく！<END_STR>
+
+<START>[face:主人公:普通]あっ　走ったらあぶないよ…<END_STR>
+
+<START>[face:千佳:驚き]あっ<END_STR>
+
+<START>[face:主人公:普通]千佳ちゃん……あぶない！<END_STR>
+
+<START>[face:千佳:悲しい]…お兄ちゃん　…お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]…あれ…オレ……？<END_STR>
+
+<START>[face:千佳:驚き]お　お兄ちゃん…！　…大丈夫！？<END_STR>
+
+<START>なんとか生きてるよ<END_STR>
+
+<START>君は…誰？<END_STR>
+
+<START>さんずの川が見える…<END_STR>
+
+<START>[face:主人公:普通]なんとか生きてるよ<END_STR>
+
+<START>[face:千佳:悲しい]ご　ごめんね？
+あたしのせいで<END_STR>
+
+<START>[face:主人公:普通]いや　大丈夫だよ
+それよりプールサイドで走ったら
+危ないから気をつけてね<END_STR>
+
+<START>[face:千佳:悲しい]うん…　ごめんなさい<END_STR>
+
+<START>[face:主人公:普通]なんて…　学校の先生みたいだね
+ホントにもう大丈夫だから
+ほら　じゃあまた泳ごう<END_STR>
+
+<START>[face:千佳:笑顔小]う　うんっ<END_STR>
+
+<START>[face:主人公:普通]君は…誰？<END_STR>
+
+<START>[face:千佳:驚き]え…まさかお兄ちゃん　記憶が…？
+お兄ちゃん　自分の名前言える？<END_STR>
+
+<START>[face:主人公:普通]さんずの川が見える…<END_STR>
+
+<START>[face:千佳:驚き]え…　ちょっとお兄ちゃん…！？
+お兄ちゃん！<END_STR>
+
+<START>[face:主人公:普通]…そっか　ゲームしながら寝ちゃったんだ
+最近ゲームしすぎだから気をつけないとな<END_STR>
+
+<START>[face:主人公:普通]それにしても　リアルな夢だったなぁ…<END_STR>
+
+<START>[face:主人公:普通]あ　千佳ちゃん…ごめんね　お待たせ<END_STR>
+
+<START>[face:千佳:普通]あーお兄ちゃん
+あたしも今来たところだから大丈夫だよ<END_STR>
+
+<START>[face:千佳:普通]じゃあ入ろっか<END_STR>
+
+<START>[face:千佳:笑顔小]ねぇ　お兄ちゃん知ってる？
+ここのプール去年の冬から
+室内の温水プールができたんだよ<END_STR>
+
+<START>[face:主人公:普通]へぇ　そうなんだ<END_STR>
+
+<START>[face:千佳:笑顔小]うん　だから１年中
+泳ぐこともできるんだよ<END_STR>
+
+<START>[face:主人公:普通]ふーん…<END_STR>
+
+<START>冬も水着が見れるってことだね<END_STR>
+
+<START>冬も一緒に泳げるんだね<END_STR>
+
+<START>そんなに泳ぎ続けられないなぁ<END_STR>
+
+<START>[face:主人公:普通]冬も水着が見れるってことだね<END_STR>
+
+<START>[face:千佳:呆れる]え…水着？
+お兄ちゃん　そんなこと考えてたの？<END_STR>
+
+<START>[face:主人公:普通]いや　冗談…<END_STR>
+
+<START>[face:千佳:呆れる]…ふーん　別にいいけど<END_STR>
+
+<START>[face:主人公:普通]冬も一緒に泳げるんだね<END_STR>
+
+<START>[face:千佳:笑顔大]うん　そうだよ
+夏も冬も　ずーっと泳げるから
+また一緒に来ようね<END_STR>
+
+<START>[face:主人公:普通]うん…<END_STR>
+
+<START>[face:主人公:普通]（じゃあ冬休みもまた帰ってこようかな）<END_STR>
+
+<START>[face:主人公:普通]そんなに泳ぎ続けられないなぁ<END_STR>
+
+<START>[face:千佳:固有]いや　そういう意味じゃないんだけど…<END_STR>
+
+<START>[face:主人公:普通]千佳ちゃん　まだ来てないのかな？
+もうちょっと待ってみよう<END_STR>
+
+<START>[face:主人公:普通]しっかし　今日も暑いよなぁ
+なんだか　のど渇いてきた…<END_STR>
+
+<START>[face:千佳:普通]もしもし　お兄ちゃん？<END_STR>
+
+<START>[face:主人公:普通]千佳ちゃん？　今日はどうしたの？<END_STR>
+
+<START>[face:千佳:悲しい]ご　ごめんね…　あの…
+今日は行けなくなっちゃったんだ<END_STR>
+
+<START>[face:主人公:普通]え　そうなの？<END_STR>
+
+<START>[face:千佳:悲しい]う　うん…ごめんね
+また今度誘ってね　…じゃあ<END_STR>
+
+<START>[face:主人公:普通]切れちゃった…　まあしょうがないか…<END_STR>
+
+<START>[face:千佳:普通]お兄ちゃん<END_STR>
+
+<START>[face:千佳:普通]ごめんね　待たせちゃって<END_STR>
+
+<START>[face:主人公:普通]うん　大丈夫…<END_STR>
+
+<START>[face:千佳:笑顔小]そうそう　さっき花火買ってたんだ
+…お兄ちゃんと一緒にやろうと思って<END_STR>
+
+<START>[face:主人公:普通]花火か…　楽しそうだね<END_STR>
+
+<START>[face:千佳:笑顔小]でしょ？　じゃあやろっ！<END_STR>
+
+<START>[face:千佳:笑顔大]うわぁ　きれいだねーっ<END_STR>
+
+<START>[face:千佳:笑顔大]なんか　花火って
+ロマンチックだよね…<END_STR>
+
+<START>[face:主人公:普通]うん　そうだね<END_STR>
+
+<START>ずっと見ていたいよ<END_STR>
+
+<START>千佳ちゃんの瞳が輝いてる<END_STR>
+
+<START>[face:主人公:普通]ずっと見ていたいよ<END_STR>
+
+<START>[face:千佳:笑顔大]うん　あたしも今　それ考えてた
+ずっと消えなければいいのにね<END_STR>
+
+<START>[face:主人公:普通]…うん<END_STR>
+
+<START>[face:千佳:笑顔大]お兄ちゃん　今日はすごい楽しかったね
+またやろうね<END_STR>
+
+<START>[face:千佳:悲しい]じゃあ　今日はもうそろそろ帰らないと…<END_STR>
+
+<START>[face:主人公:普通]うん　家まで送ってくよ<END_STR>
+
+<START>[face:千佳:笑顔小]あ　うん　ありがとう…<END_STR>
+
+<START>[face:主人公:普通]千佳ちゃんの瞳が輝いてる<END_STR>
+
+<START>[face:千佳:呆れる]…お兄ちゃん
+他の女の人にもそんなこと言ってるの？
+……やめたほうがいいよ<END_STR>
+
+<START>[face:主人公:普通]う　うん…<END_STR>
+
+<START>[face:主人公:普通]千佳ちゃん　まだ来てないのかな？<END_STR>
+
+<START>[face:主人公:普通]あ　千佳ちゃん<END_STR>
+
+<START>[face:千佳:笑顔小]今日はベンチで
+ゆっくり話でもしない？<END_STR>
+
+<START>[face:主人公:普通]子供の頃この公園でよく遊んだなぁ<END_STR>
+
+<START>[face:千佳:普通]そうなんだ…
+あたしはもっと小さかったから
+あんまり覚えてないなぁ<END_STR>
+
+<START>[face:千佳:普通]何して遊んでたの？<END_STR>
+
+<START>[face:主人公:普通]うーん　カンけりとか
+オニごっことか…<END_STR>
+
+<START>[face:主人公:普通]そういえば　オニごっこしてて
+伸恵にすべり台から突き落とされた
+こともあったな…<END_STR>
+
+<START>[face:千佳:困る]あ　それは覚えてる…
+おねぇちゃん　すっごいうれしそうだった<END_STR>
+
+<START>[face:主人公:普通]そ　そうだね…<END_STR>
+
+<START>オレは死ぬかと思ったけどね<END_STR>
+
+<START>いつか仕返ししようと思ってる<END_STR>
+
+<START>おかげで打たれ強くなったよ<END_STR>
+
+<START>[face:主人公:普通]オレは死ぬかと思ったけどね<END_STR>
+
+<START>[face:千佳:悲しい]そ　そうだろうね…
+ごめんね　うちのおねぇちゃんが<END_STR>
+
+<START>[face:主人公:普通]いつか仕返ししようと思ってる<END_STR>
+
+<START>[face:千佳:困る]し　仕返しって…やめときなよ
+返り討ちにあっちゃうよ？<END_STR>
+
+<START>[face:主人公:普通]そ　そうだね……<END_STR>
+
+<START>[face:主人公:普通]おかげで打たれ強くなったよ<END_STR>
+
+<START>[face:千佳:困る]ふーん
+悪いことばかりでもなかったんだ…<END_STR>
+
+<START>[face:主人公:普通]そう　知らないうちに
+きたえられていたんだ<END_STR>
+
+<START>[face:千佳:困る]ふーん…
+……ホントに？<END_STR>
+
+<START>[face:主人公:普通]…いや　そんなことはないよね<END_STR>
+
+<START>[face:千佳:呆れる]……<END_STR>
+
+<START>[face:千佳:普通]あ　お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]ごめんね　待った？<END_STR>
+
+<START>[face:千佳:普通]ううん　あたしもさっき来たところ<END_STR>
+
+<START>[face:千佳:笑顔小]…ねぇ　お兄ちゃん
+今日は絵馬にお願いごと書いてみない？<END_STR>
+
+<START>[face:主人公:普通]絵馬か…　いいね<END_STR>
+
+<START>[face:千佳:笑顔大]書けた！<END_STR>
+
+<START>[face:主人公:普通]なんて書いたの？<END_STR>
+
+<START>[face:千佳:笑顔大]んーとね
+「おねぇちゃんに彼氏ができますように」<END_STR>
+
+<START>[face:主人公:普通]ふ　ふーん…<END_STR>
+
+<START>[face:千佳:呆れる]おねぇちゃん
+去年のクリスマスもフリーだったんだよ
+いつまでたっても彼氏できそうもないし…<END_STR>
+
+<START>[face:主人公:普通]そ　そうなんだ
+…でも　あいつ…<END_STR>
+
+<START>彼氏欲しいと思ってないだろ<END_STR>
+
+<START>きっと今年もフリーだろ<END_STR>
+
+<START>めし使いの方が欲しいと思う<END_STR>
+
+<START>[face:主人公:普通]彼氏欲しいと思ってないだろ<END_STR>
+
+<START>[face:千佳:普通]あ　それは言えてるかも<END_STR>
+
+<START>[face:主人公:普通]でしょ？<END_STR>
+
+<START>[face:千佳:笑顔大]うん　そうだねー<END_STR>
+
+<START>[face:主人公:普通]きっと今年もフリーだろ<END_STR>
+
+<START>[face:千佳:真剣]た　たしかにそうかもね…
+…でもお兄ちゃん　おねぇちゃんに
+それ言ったら　なぐられるよ<END_STR>
+
+<START>[face:主人公:普通]う　うん…今のは内緒ってことで<END_STR>
+
+<START>[face:主人公:普通]めし使いの方が欲しいと思う<END_STR>
+
+<START>[face:千佳:困る]そ　そうかもね…
+おねぇちゃん　人づかい荒すぎだもん<END_STR>
+
+<START>[face:主人公:普通]……うん<END_STR>
+
+<START>[face:千佳:驚き]あーお兄ちゃん　遅いよー<END_STR>
+
+<START>[face:主人公:普通]ご　ごめん<END_STR>
+
+<START>[face:千佳:笑顔小]なーんてね
+実はあたしもさっき来たところ<END_STR>
+
+<START>[face:主人公:普通]な　なんだぁ…<END_STR>
+
+<START>[face:千佳:笑顔小]ねぇ　お兄ちゃん
+せっかく神社に来たんだし
+おみくじ引いていこうよ<END_STR>
+
+<START>[face:千佳:笑顔大]あっ　やったぁーっ
+あたし大吉だー
+お兄ちゃんは　なんだった？<END_STR>
+
+<START>[face:主人公:普通]オレは…　だっ　大凶だ！！<END_STR>
+
+<START>[face:千佳:困る]え…？　ホ　ホントに？<END_STR>
+
+<START>[face:主人公:普通]う　うん……大凶ってフツー
+そんなに出ないぞ…　なんでオレが…<END_STR>
+
+<START>なんだか不吉な予感がするな…<END_STR>
+
+<START>千佳ちゃんのと交換しない？<END_STR>
+
+<START>もう１回やりなおそうかな<END_STR>
+
+<START>[face:主人公:普通]なんだか不吉な予感がするな…<END_STR>
+
+<START>[face:千佳:困る]…大丈夫だよ　お兄ちゃん
+ちゃんとお参りして帰れば
+悪いことなんか起きないから<END_STR>
+
+<START>[face:主人公:普通]そ　そうかなぁ…<END_STR>
+
+<START>[face:千佳:笑顔大]うん　絶対そうだよ
+だから元気出して　ねっ<END_STR>
+
+<START>[face:主人公:普通]う　うん…ありがとう<END_STR>
+
+<START>[face:主人公:普通]千佳ちゃんのと交換しない？<END_STR>
+
+<START>[face:千佳:呆れる]え…　う　うん　別にいいけど
+お兄ちゃんひどーい<END_STR>
+
+<START>[face:主人公:普通]ご…ごめん<END_STR>
+
+<START>[face:主人公:普通]もう１回やりなおそうかな<END_STR>
+
+<START>[face:千佳:困る]え…　それは反則なんじゃない？<END_STR>
+
+<START>[face:主人公:普通]やっぱりそうだよね<END_STR>
+
+<START>[face:千佳:笑顔小]…大丈夫だよ　お兄ちゃん
+木に結んどけば
+悪いことなんか起きないから<END_STR>
+
+<START>[face:主人公:普通]そ　そうか…
+…ありがとう　千佳ちゃん<END_STR>
+
+<START>[face:千佳:笑顔小]うん<END_STR>
+
+<START>[face:主人公:普通]千佳ちゃん　お待たせ<END_STR>
+
+<START>[face:千佳:普通]うん<END_STR>
+
+<START>[face:千佳:笑顔小]ねぇ　お兄ちゃん
+今日は一緒にボートに乗らない？<END_STR>
+
+<START>[face:主人公:普通]ボートかぁ　いいね<END_STR>
+
+<START>[face:千佳:笑顔小]よしっ　じゃあ決まりね<END_STR>
+
+<START>[face:千佳:真剣]お兄ちゃん　佐鳴湖に落ちたこと
+あるんでしょ？<END_STR>
+
+<START>[face:主人公:普通]な　なんで知ってるの…？<END_STR>
+
+<START>[face:千佳:真剣]おねぇちゃんが言ってた<END_STR>
+
+<START>[face:主人公:普通]あ　そっか…でも落ちたと言うより
+落とされたって言う方が正しいな<END_STR>
+
+<START>[face:千佳:困る]え…　それはやっぱり……おねぇちゃん？<END_STR>
+
+<START>[face:千佳:困る]そうだったんだ…
+でも　ここの水って汚いでしょ？
+ニオイとか大丈夫だった？<END_STR>
+
+<START>[face:主人公:普通]いや…　しばらく体から取れなくて
+大変だったよ<END_STR>
+
+<START>[face:千佳:悲しい]そ　そうだよね…
+ごめんね　うちのおねぇちゃんが<END_STR>
+
+<START>[face:主人公:普通]い　いや<END_STR>
+
+<START>いい思い出だよ<END_STR>
+
+<START>もっとひどい目にあってるし…<END_STR>
+
+<START>[face:主人公:普通]いい思い出だよ<END_STR>
+
+<START>[face:千佳:笑顔小]ふーん…優しいんだね　お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]うん…　まあ子供のときの話だしね<END_STR>
+
+<START>[face:千佳:笑顔小]そっか…<END_STR>
+
+<START>[face:主人公:普通]（もっと色々　ひどい目にあってるし…）<END_STR>
+
+<START>[face:主人公:普通]もっとひどい目にあってるし…<END_STR>
+
+<START>[face:千佳:困る]え…　そ　そうなんだ
+お兄ちゃんも大変だね…<END_STR>
+
+<START>[face:主人公:普通]あれ　千佳ちゃんいないな
+はやく来すぎたかな…<END_STR>
+
+<START>[face:千佳:普通]お兄ちゃーん<END_STR>
+
+<START>[face:主人公:普通]ごめんね　遠いところに呼んじゃって<END_STR>
+
+<START>[face:千佳:普通]ううん　へーきだよ
+ねっ　さたけ<END_STR>
+
+<START>[face:さたけ:普通]わんっ<END_STR>
+
+<START>[face:主人公:普通]今日は涼しくて気持ちいいよね<END_STR>
+
+<START>[face:千佳:笑顔小]うん　さたけもよろこんでる<END_STR>
+
+<START>[face:さたけ:普通]ワンッ　ワンッ<END_STR>
+
+<START>[face:主人公:普通]なんだか　最近運動不足だから
+たまにはこうやって歩くのもいいなぁ<END_STR>
+
+<START>[face:千佳:普通]お兄ちゃん　運動不足なの？<END_STR>
+
+<START>[face:千佳:笑顔小]じゃあ　お兄ちゃん
+今度さたけの散歩につきあってよ
+ねっ　だめ？<END_STR>
+
+<START>もう少し涼しくなったらね<END_STR>
+
+<START>よろこんでつきあうよ<END_STR>
+
+<START>[face:主人公:普通]もう少し涼しくなったらね<END_STR>
+
+<START>[face:千佳:困る]えー　だってお兄ちゃん
+夏休みが終わったら
+東京に戻っちゃうんでしょ？<END_STR>
+
+<START>[face:主人公:普通]あ　そうか…<END_STR>
+
+<START>[face:千佳:悲しい]…もうー<END_STR>
+
+<START>[face:主人公:普通]ごめん…<END_STR>
+
+<START>[face:主人公:普通]よろこんでつきあうよ<END_STR>
+
+<START>[face:千佳:笑顔大]ホントー？
+また今度一緒に散歩しようね<END_STR>
+
+<START>[face:主人公:普通]千佳ちゃん　もう来てるかな
+あ　いた…　おーい　千佳ちゃーん<END_STR>
+
+<START>[face:主人公:普通]なんだか　周りが騒がしいな…
+何かあったのかな？<END_STR>
+
+<START>[face:主人公:普通]千佳ちゃん　何かあったのかな
+周りが騒がしいけど…<END_STR>
+
+<START>[face:千佳:普通]ん？<END_STR>
+
+<START>[face:主人公:普通]…ち　千佳ちゃん…そのほっぺ…<END_STR>
+
+<START>[face:千佳:普通]ほっぺ？　…はっ　まさか！
+お兄ちゃん　トイレ行ってくるね<END_STR>
+
+<START>[face:主人公:普通]…う　うん…<END_STR>
+
+<START>[face:千佳:困る]……<END_STR>
+
+<START>[face:主人公:普通]お　おかえり<END_STR>
+
+<START>[face:千佳:困る]…うん<END_STR>
+
+<START>[face:主人公:普通]げ　元気だしなって…その<END_STR>
+
+<START>[face:千佳:悲しい]……うん　いいの
+どうせまたみっちゃんのしわざだし<END_STR>
+
+<START>[face:主人公:普通]う　うんそうかもね<END_STR>
+
+<START>[face:千佳:悲しい]わかりづらいんだよ　まったく…
+はぁ～　もう
+なんであたしばっかりこんな目に…<END_STR>
+
+<START>[face:主人公:普通]（かわいそうな千佳ちゃん…）<END_STR>
+
+<START>[face:主人公:普通]千佳ちゃん…　まだ来てないや
+中にいるのかな？<END_STR>
+
+<START>[face:主人公:普通]いや　今来たところだから<END_STR>
+
+<START>[face:主人公:普通]じゃあ入ろっか<END_STR>
+
+<START>[face:千佳:普通]ねぇねぇ　お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]ん？<END_STR>
+
+<START>[face:千佳:普通]夏休みの宿題で読書感想文を
+書かなきゃいけないんだけど
+一緒に選んでもらってもいい？<END_STR>
+
+<START>[face:主人公:普通]あ　なるほど
+…じゃあ一緒に探そうか<END_STR>
+
+<START>[face:千佳:笑顔小]うん　ありがとう<END_STR>
+
+<START>[face:主人公:普通]読書感想文の本か…何がいいかなぁ<END_STR>
+
+<START>[face:千佳:笑顔小]学校の推薦図書だと
+みんなと同じになっちゃうから…
+みんなが読まない面白い本がいいな<END_STR>
+
+<START>[face:主人公:普通]みんなが読まない面白い本か…<END_STR>
+
+<START>[face:千佳:笑顔小]あ　あの本とかどうかな<END_STR>
+
+<START>[face:主人公:普通]あっ　千佳ちゃんあぶないよ<END_STR>
+
+<START>[face:千佳:悲しい]いててて…<END_STR>
+
+<START>[face:主人公:普通]ちっ　千佳ちゃん大丈夫？<END_STR>
+
+<START>[face:千佳:悲しい]…うん　大丈夫<END_STR>
+
+<START>[face:主人公:普通]高いところのはオレが取ってあげるから<END_STR>
+
+<START>[face:千佳:悲しい]…うん　ありがと<END_STR>
+
+<START>[face:主人公:普通]本が落ちて来るなんて
+きっと千佳ちゃんに読んでほしいんだな<END_STR>
+
+<START>[face:千佳:笑顔小]あ　そうかもー
+…じゃあ　これ読んでみよっかな<END_STR>
+
+<START>[face:主人公:普通]面白かったらいいね
+……えーっとこの本は…「源氏物語」か
+うーん　こりゃダメだな<END_STR>
+
+<START>[face:千佳:普通]どうして？<END_STR>
+
+<START>千佳ちゃんには難しいと思うよ<END_STR>
+
+<START>話がちょっとエッチだから<END_STR>
+
+<START>[face:主人公:普通]千佳ちゃんには難しいと思うよ<END_STR>
+
+<START>[face:千佳:普通]え　そうなの？
+ちょっと見てみよっかな<END_STR>
+
+<START>[face:千佳:驚き]ふーん　ちょっと見せて
+……わ…何これ　中国語？
+無理無理！<END_STR>
+
+<START>[face:主人公:普通]（一応日本語だけど…ま　いっか…）<END_STR>
+
+<START>[face:主人公:普通]話がちょっとエッチだから<END_STR>
+
+<START>[face:千佳:困る]…え　え？
+なんでそんなものが　図書館に…？<END_STR>
+
+<START>[face:主人公:普通]さあ…　なんでだろうね<END_STR>
+
+<START>[face:千佳:困る]んー…　じゃあ
+別の本　探してみようかな<END_STR>
+
+<START>[face:主人公:普通]う　うん…そうしよう<END_STR>
+
+<START>[face:千佳:笑顔小]あっ　お兄ちゃん<END_STR>
+
+<START>[face:主人公:普通]千佳ちゃん　ごめんねお待たせ<END_STR>
+
+<START>[face:千佳:笑顔小]じゃあ入ろっか<END_STR>
+
+<START>[face:千佳:笑顔大]今日はパフェ食べようかなぁ<END_STR>
+
+<START>[face:主人公:普通]うん　いいね
+オレもそうしようかな<END_STR>
+
+<START>[face:千佳:笑顔小]うん　ここのパフェおいしいんだよ
+…今日は何にしようかなぁ<END_STR>
+
+<START>[face:千佳:笑顔小]チョコパフェにしようかな…
+フルーツパフェもおいしそうだし
+うーん…　迷うなぁ<END_STR>
+
+<START>[face:主人公:普通]じゃあ　両方注文したら？
+半分ずつ食べようよ<END_STR>
+
+<START>[face:千佳:笑顔小]え　いいの？
+お兄ちゃん何か食べたいものないの？<END_STR>
+
+<START>[face:主人公:普通]ううん　オレもパフェ食べたかったから
+いっしょに食べようよ<END_STR>
+
+<START>[face:千佳:笑顔大]うんっ<END_STR>
+
+<START>[face:千佳:笑顔大]はぁ～　おいしかったぁ
+半分ずつだけど　量が多いから
+もうおなかいっぱい…<END_STR>
+
+<START>[face:主人公:普通]うん　でもおいしかったね<END_STR>
+
+<START>[face:千佳:笑顔大]でしょ？　また食べたくなるよね<END_STR>
+
+<START>でも今日はもう食べられないよ<END_STR>
+
+<START>まだまだ食べ足りないな<END_STR>
+
+<START>[face:主人公:普通]でも今日はもう食べられないよ<END_STR>
+
+<START>[face:千佳:笑顔小]そうだよね　いっぱい食べたもん
+じゃあ　また一緒に来ようね<END_STR>
+
+<START>[face:主人公:普通]まだまだ食べ足りないな<END_STR>
+
+<START>[face:千佳:困る]え　ホントに？
+お兄ちゃん　あんまり無理しないで
+いいからね<END_STR>
+
+<START>[face:主人公:普通]無理なんかしてないよ
+オレ　甘いものが好きで好きで
+たまらないから…<END_STR>
+
+<START>[face:千佳:呆れる]そ　そうなんだ…
+太るから気をつけたほうがいいよ<END_STR>
+
+<START>[face:千佳:普通]あっ　お兄ちゃん<END_STR>
+
+<START>[face:千佳:笑顔小]じゃあ今日は　一緒にごはん食べよ<END_STR>
+
+<START>[face:千佳:笑顔小]ねぇ　お兄ちゃん知ってる？
+ここのレストラン
+パンがすっごくおいしいんだよ<END_STR>
+
+<START>[face:主人公:普通]へぇ　それは知らなかった
+オレいつもライスだからなぁ<END_STR>
+
+<START>[face:千佳:笑顔小]じゃあ　今日は一緒にパン食べよ？<END_STR>
+
+<START>[face:主人公:普通]うん　そうするよ<END_STR>
+
+<START>[face:主人公:普通]ふぁ～　おいしかったなぁ
+やっぱり　特にパンがおいしかったよ<END_STR>
+
+<START>[face:千佳:笑顔小]でしょ？　みんなにオススメしてるんだよ<END_STR>
+
+<START>[face:主人公:普通]うん　みんなにも食べてもらいたいね<END_STR>
+
+<START>[face:千佳:笑顔小]そうだよね
+…どうやって作ってるのかな？
+自分でも作ってみたいな<END_STR>
+
+<START>千佳ちゃんならきっと作れるよ<END_STR>
+
+<START>パン作りはむずかしいよ<END_STR>
+
+<START>ここで働いてみたら？<END_STR>
+
+<START>[face:主人公:普通]千佳ちゃんならきっと作れるよ<END_STR>
+
+<START>[face:千佳:笑顔大]そっかなー…　じゃあ挑戦してみようっと
+もしできたら　お兄ちゃんに
+食べてもらうからね<END_STR>
+
+<START>[face:主人公:普通]うん　楽しみにしてるよ<END_STR>
+
+<START>[face:主人公:普通]パン作りはむずかしいよ<END_STR>
+
+<START>[face:千佳:悲しい]うん…　そうだよね
+あたしにはやっぱり作れないかもなぁ<END_STR>
+
+<START>[face:主人公:普通]ここで働いてみたら？<END_STR>
+
+<START>[face:千佳:困る]え…？　何言ってんの　お兄ちゃん…
+無理に決まってんじゃん
+あたし小学生だもん<END_STR>
+
+<START>[face:主人公:普通]そ　そうだよね…　ここで働けば
+作り方がわかると思ったんだけど
+やっぱり無理だよね…<END_STR>
+
+<START>none course!!
+<END_STR>
