@@ -1,0 +1,827 @@
+<START>[face:アナ:普通]あ　お兄さま<END_STR>
+
+<START>[face:主人公:普通]ごめん　アナちゃん！
+待たせちゃって…<END_STR>
+
+<START>[face:アナ:真剣]もう　お兄さま遅いですわ
+あたし　楽しみにしてたんですからー<END_STR>
+
+<START>[face:主人公:普通]そうなんだ…ごめんね<END_STR>
+
+<START>[face:アナ:困る]なんですか？　それ<END_STR>
+
+<START>[face:主人公:普通]いや　アナちゃんにあげようと思って…<END_STR>
+
+<START>[face:アナ:困る]…い　いえ　けっこうですわ<END_STR>
+
+<START>[face:主人公:普通]そ　そうだよね<END_STR>
+
+<START>[face:アナ:普通]え　英会話の本ですか…<END_STR>
+
+<START>[face:主人公:普通]うん　アナちゃんにあげようと思って<END_STR>
+
+<START>[face:アナ:困る]…いえ　けっこうですわ
+イギリス人なのに　こんな本読むなんて…<END_STR>
+
+<START>[face:主人公:普通]そ　そっか
+でもいつか役に立つと思うけどな
+よかったら　受けとってよ<END_STR>
+
+<START>[face:アナ:普通]え　ええ…　じゃあ　もらっておきますわ
+ありがとうございます<END_STR>
+
+<START>[face:主人公:普通]うん　どういたしまして<END_STR>
+
+<START>[face:アナ:普通]それ　あたしにくれるんですか？<END_STR>
+
+<START>[face:主人公:普通]うん　よかったら受け取ってよ<END_STR>
+
+<START>[face:アナ:笑顔大]ホントですか？
+お兄さま　ありがとうございます<END_STR>
+
+<START>[face:アナ:普通]それ　浮き輪ですか？<END_STR>
+
+<START>[face:アナ:笑顔大]え　くれるんですか？
+うれしいですわ<END_STR>
+
+<START>[face:主人公:普通]よかったら受け取ってよ<END_STR>
+
+<START>[face:アナ:笑顔小]はい　ありがとうございます
+お兄さま<END_STR>
+
+<START>[face:アナ:笑顔小]お兄さま　どうしたんですか？
+そのぬいぐるみ　かわいいですわ<END_STR>
+
+<START>[face:アナ:笑顔大]え…　いいんですか？<END_STR>
+
+<START>[face:アナ:笑顔大]うれしいですわー
+ありがとうございます　お兄さま<END_STR>
+
+<START>[face:アナ:笑顔小]…じゃあ入りましょ<END_STR>
+
+<START>[face:主人公:普通]うん<END_STR>
+
+<START>[face:主人公:普通]アナちゃん…　この間はずっと
+ウォータースライダーに乗ってたけど
+今日もあれに乗るのかな？<END_STR>
+
+<START>[face:主人公:普通]今日はこの間よりも混んでるから
+あんまり何度も乗れなさそうだけど…<END_STR>
+
+<START>[face:アナ:普通]お兄さま<END_STR>
+
+<START>[face:主人公:普通]あ　アナちゃん<END_STR>
+
+<START>[face:アナ:困る]ごめんなさい　待たせちゃって<END_STR>
+
+<START>[face:主人公:普通]…う　うん
+ねぇ　アナちゃんの水着って…<END_STR>
+
+<START>セクシーだよね<END_STR>
+
+<START>かわいいよね<END_STR>
+
+<START>オレにも着れるかな？<END_STR>
+
+<START>[face:主人公:普通]セクシーだよね<END_STR>
+
+<START>[face:アナ:困る]せ　せくしーですか？
+…なんか実感ないですわ<END_STR>
+
+<START>[face:主人公:普通]そっか…<END_STR>
+
+<START>[face:主人公:普通]かわいいよね<END_STR>
+
+<START>[face:アナ:笑顔小]え　ホントですか？<END_STR>
+
+<START>[face:主人公:普通]うん　すごく似合ってるよ<END_STR>
+
+<START>[face:アナ:笑顔大]うれしいですわーっ
+他にもかわいい水着があるから
+お兄さまに見せたいですわ<END_STR>
+
+<START>[face:主人公:普通]うん　じゃあまた一緒に来ようね<END_STR>
+
+<START>[face:アナ:笑顔大]はい　約束ですわ<END_STR>
+
+<START>[face:主人公:普通]オレにも着れるかな？<END_STR>
+
+<START>[face:アナ:固有]…え？
+お兄さま　そんな趣味があったんですか？<END_STR>
+
+<START>[face:主人公:普通]…いや　冗談だから気にしないで<END_STR>
+
+<START>[face:アナ:真剣]じょ　冗談ですか…
+…そうですか<END_STR>
+
+<START>[face:主人公:普通]……<END_STR>
+
+<START>[face:主人公:普通]アナちゃん…ごめんね　お待たせ<END_STR>
+
+<START>[face:アナ:普通]あ　お兄さま
+あたしも今来たところだから大丈夫ですわ<END_STR>
+
+<START>[face:主人公:普通]今日は天気がいいから　人が多いね<END_STR>
+
+<START>[face:アナ:普通]ええ　今日はプール日和ですわ<END_STR>
+
+<START>[face:主人公:普通]うん　そうだね<END_STR>
+
+<START>[face:アナ:笑顔小]ねぇ　お兄さま…
+あたし　あれに乗ってきてもいいですか？<END_STR>
+
+<START>[face:主人公:普通]あれって…　ウォータースライダー？<END_STR>
+
+<START>[face:アナ:笑顔小]ええ<END_STR>
+
+<START>[face:主人公:普通]そっか…じゃあ　気をつけてね<END_STR>
+
+<START>[face:アナ:笑顔大]はい　じゃあ行ってきます！<END_STR>
+
+<START>[face:主人公:普通]あのスライダー　けっこう高いのに
+怖くないんだな
+…茉莉ちゃんなら絶対　怖がりそうだけど<END_STR>
+
+<START>[face:アナ:笑顔大]きゃーーっ<END_STR>
+
+<START>[face:主人公:普通]ア　アナちゃん！？<END_STR>
+
+<START>[face:アナ:笑顔小]ただいま　お兄さま<END_STR>
+
+<START>[face:主人公:普通]うん　お帰り　楽しかった？<END_STR>
+
+<START>[face:アナ:笑顔大]はい！　すごく楽しかったですわ<END_STR>
+
+<START>[face:主人公:普通]そっか　よかったね<END_STR>
+
+<START>[face:アナ:笑顔小]…あの　お兄さま？
+また行ってきても　いいですか？<END_STR>
+
+<START>[face:主人公:普通]え？　うん…いいよ<END_STR>
+
+<START>[face:アナ:笑顔小]いいんですか？
+じゃあ　行ってきます<END_STR>
+
+<START>[face:主人公:普通]今日はずっとあれに乗るのかな…？
+…ま　いいか　楽しそうだから<END_STR>
+
+<START>[face:主人公:普通]アナちゃん　お待たせ<END_STR>
+
+<START>[face:アナ:笑顔小]あの…
+今日も　ゆっくりお話しませんか？<END_STR>
+
+<START>[face:主人公:普通]うん　よろこんで<END_STR>
+
+<START>[face:アナ:笑顔小]お兄さまは子供の頃
+この公園でよく遊んだんですか？<END_STR>
+
+<START>[face:主人公:普通]うん　小学生の頃は
+いつもここで遊んでたよ<END_STR>
+
+<START>[face:アナ:笑顔小]へぇー
+おねぇさまも一緒だったんですか？<END_STR>
+
+<START>[face:主人公:普通]うん　…そういや伸恵には
+すべり台から落とされたことも
+あったな…<END_STR>
+
+<START>[face:アナ:普通]そ　そうなんですか<END_STR>
+
+<START>[face:主人公:普通]…うん　あと
+ブランコから飛びゲリ食らったことも…<END_STR>
+
+<START>[face:アナ:困る]た　大変ですね<END_STR>
+
+<START>[face:主人公:普通]……うん<END_STR>
+
+<START>[face:アナ:普通]お…お兄さまは　おねぇさまとの思い出が
+たくさんあるんですね<END_STR>
+
+<START>[face:主人公:普通]う　うん…　そういえば
+佐鳴湖に落とされたこともあったなぁ<END_STR>
+
+<START>[face:アナ:困る]さ　佐鳴湖に…？<END_STR>
+
+<START>[face:主人公:普通]うん…　あそこはすごい水が汚いから
+ニオイがなかなか取れなくて
+大変だったんだよ…<END_STR>
+
+<START>[face:アナ:困る]…そうですか<END_STR>
+
+<START>[face:アナ:困る]あ　あの…お兄さま
+ごめんなさい　思い出させちゃって<END_STR>
+
+<START>[face:主人公:普通]い　いやっ…いいんだよ<END_STR>
+
+<START>伸恵が悪いんだから<END_STR>
+
+<START>今となってはいい思い出だから<END_STR>
+
+<START>[face:主人公:普通]伸恵が悪いんだから<END_STR>
+
+<START>[face:アナ:困る]そ　そうですか…
+でも　あまりおねぇさまを
+責めないでくださいね<END_STR>
+
+<START>[face:アナ:困る]おねぇさまも　きっと
+悪気があってやったわけじゃないと
+思いますわ…<END_STR>
+
+<START>[face:主人公:普通]そ　そうなのかなぁ？<END_STR>
+
+<START>[face:アナ:困る]……<END_STR>
+
+<START>[face:主人公:普通]今となってはいい思い出だから<END_STR>
+
+<START>[face:アナ:普通]そ　そうですか…<END_STR>
+
+<START>[face:主人公:普通]でも　二度と同じ目には
+あいたくないけどね<END_STR>
+
+<START>[face:アナ:笑顔小]あの…
+たまには　ゆっくりお話でもしませんか？<END_STR>
+
+<START>[face:主人公:普通]うん　いいよ<END_STR>
+
+<START>[face:アナ:普通]フルシアンテも連れてくれば
+よかったですわ<END_STR>
+
+<START>[face:主人公:普通]そうだね<END_STR>
+
+<START>[face:アナ:笑顔小]フルシアンテ　この公園に来るのが
+大好きなんですよ<END_STR>
+
+<START>[face:主人公:普通]へぇ　どうして？<END_STR>
+
+<START>[face:アナ:笑顔小]ここによくお散歩に来てる
+かわいいワンちゃんがいるんですけど…
+その子に恋をしているんです<END_STR>
+
+<START>[face:主人公:普通]え　フルシアンテが？<END_STR>
+
+<START>[face:主人公:普通]へぇー<END_STR>
+
+<START>うまくいくといいね<END_STR>
+
+<START>犬のくせに生意気な…<END_STR>
+
+<START>実は飼い主の方に恋してるとか<END_STR>
+
+<START>[face:主人公:普通]うまくいくといいね<END_STR>
+
+<START>[face:アナ:笑顔大]ええ
+お兄さまも　応援してくださいね<END_STR>
+
+<START>[face:主人公:普通]犬のくせに生意気な…<END_STR>
+
+<START>[face:アナ:真剣]え…　お兄さま
+フルシアンテのこと
+そんな風に言わないでください<END_STR>
+
+<START>[face:主人公:普通]え？　いや…今のは冗談…<END_STR>
+
+<START>[face:アナ:真剣]もう　いいですわ
+今日はもう帰りますから<END_STR>
+
+<START>[face:主人公:普通]…怒らせちゃったな<END_STR>
+
+<START>[face:主人公:普通]実は飼い主の方に恋してるとか<END_STR>
+
+<START>[face:アナ:困る]え…そんなことはないと思いますけど
+そう言われると　なんだか自信ないですわ
+あとでフルシアンテに聞いてみようかしら<END_STR>
+
+<START>[face:主人公:普通]アナちゃんは　まだ来てないみたいだな<END_STR>
+
+<START>[face:アナ:困る]あ　お兄さま…ごめんなさい
+お待たせして<END_STR>
+
+<START>[face:主人公:普通]ううん　オレもさっき来たところだから<END_STR>
+
+<START>[face:主人公:普通]…ねぇ　アナちゃん
+今日は絵馬にお願いごと書いてみない？<END_STR>
+
+<START>[face:アナ:笑顔小]えま　ですか？<END_STR>
+
+<START>[face:主人公:普通]うん　お願いごとを書いてつるしておくと
+願いが叶うんだよ<END_STR>
+
+<START>[face:アナ:笑顔小]へぇー　おもしろそうですわ
+やってみたいです<END_STR>
+
+<START>[face:主人公:普通]よし　決まり！<END_STR>
+
+<START>[face:主人公:普通]アナちゃん　なんて書いたの？<END_STR>
+
+<START>[face:アナ:普通]えっと…　モデルになれますようにって<END_STR>
+
+<START>[face:主人公:普通]モデルか…
+なんかアナちゃんなら
+絵馬に書かなくてもなれそうな気がするな<END_STR>
+
+<START>[face:アナ:笑顔大]え　ホントですか？
+うれしいですわー<END_STR>
+
+<START>[face:主人公:普通]うん　アナちゃんなら夢じゃないと思うよ<END_STR>
+
+<START>明日にでもなれるよ<END_STR>
+
+<START>今のうちにサインもらおうかな<END_STR>
+
+<START>オレのライバルだね<END_STR>
+
+<START>[face:主人公:普通]明日にでもなれるよ<END_STR>
+
+<START>[face:アナ:真剣]そ　それは無理だと思いますけど…
+からかわないでほしいですわ<END_STR>
+
+<START>[face:主人公:普通]ご　ごめん…<END_STR>
+
+<START>[face:主人公:普通]今のうちにサインもらおうかな<END_STR>
+
+<START>[face:アナ:笑顔大]そんな…　大げさですわ<END_STR>
+
+<START>[face:アナ:笑顔大]じゃあ　もしモデルになれたら
+いちばん最初にお兄さまに
+サイン書いてあげますね<END_STR>
+
+<START>[face:主人公:普通]うん　楽しみにしてるよ<END_STR>
+
+<START>[face:主人公:普通]オレのライバルだね<END_STR>
+
+<START>[face:アナ:笑顔小]ライバルって…
+お兄さまもモデルになりたいんですか？<END_STR>
+
+<START>[face:主人公:普通]う　うん…そうみたい<END_STR>
+
+<START>[face:アナ:笑顔大]じゃあ　一緒にがんばりましょうね<END_STR>
+
+<START>[face:主人公:普通]…お　おう<END_STR>
+
+<START>[face:主人公:普通]ごめんね　待った？<END_STR>
+
+<START>[face:アナ:普通]いえっ　あたしもさっき来たところですわ<END_STR>
+
+<START>[face:アナ:笑顔小]…ねぇ　お兄さま
+今日はおみくじを引いてみませんか？<END_STR>
+
+<START>[face:主人公:普通]おみくじか…　いいね<END_STR>
+
+<START>[face:主人公:普通]ぐあー　オレ「凶」だよ　最悪だな…
+アナちゃんのは？　どれどれ…
+おぉ「大吉」じゃん　すごいね<END_STR>
+
+<START>いちばんいいやつだよ<END_STR>
+
+<START>いちばん悪いやつだよ<END_STR>
+
+<START>オレのと交換しない？<END_STR>
+
+<START>[face:主人公:普通]いちばんいいやつだよ<END_STR>
+
+<START>[face:アナ:笑顔大]そうなんですか　うれしいですわー<END_STR>
+
+<START>[face:主人公:普通]それに比べて　凶って…
+なんかついてないなぁ<END_STR>
+
+<START>[face:アナ:普通]あ　あの…お兄さま
+悪い結果が出ても　木に結んでおくと
+いいことが起こるんですわ<END_STR>
+
+<START>[face:主人公:普通]う　うん…そうだね
+アナちゃんよく知ってるなぁ<END_STR>
+
+<START>[face:アナ:普通]い　いえ…おねぇさまに聞いたんです<END_STR>
+
+<START>[face:主人公:普通]ふーん<END_STR>
+
+<START>[face:アナ:笑顔小]でも　お兄さまと一緒に引いて
+大吉だったから
+きっとお兄さまにもいいことがありますわ<END_STR>
+
+<START>[face:主人公:普通]そ　そうかな…<END_STR>
+
+<START>[face:アナ:笑顔小]ええ　きっとそうですわ<END_STR>
+
+<START>[face:主人公:普通]…うん　そうだね
+アナちゃん　ありがとう<END_STR>
+
+<START>[face:アナ:笑顔大]はい<END_STR>
+
+<START>[face:主人公:普通]いちばん悪いやつだよ<END_STR>
+
+<START>[face:アナ:困る]え…？　お兄さま
+それ　ウソですよね？
+それくらい知ってますわ<END_STR>
+
+<START>[face:主人公:普通]う　うん…<END_STR>
+
+<START>[face:アナ:真剣]…お兄さまが悪いやつ引いたからって
+イジワルしないでほしいですわ<END_STR>
+
+<START>[face:主人公:普通]いや　そういうつもりじゃ
+なかったんだけど…　ごめん<END_STR>
+
+<START>[face:アナ:真剣]もういいですわ
+あたし　今日は帰りますから<END_STR>
+
+<START>[face:主人公:普通]……行っちゃった…<END_STR>
+
+<START>[face:主人公:普通]オレのと交換しない？<END_STR>
+
+<START>[face:アナ:困る]え…？　イ　イヤですわ……
+なんか　交換するのって
+ズルしてるみたいですし…<END_STR>
+
+<START>[face:アナ:困る]しかも　お兄さまが引いたの
+悪いやつですよね？<END_STR>
+
+<START>[face:主人公:普通]そ　そうだよね　……ごめん<END_STR>
+
+<START>[face:主人公:普通]アナちゃん　待った？<END_STR>
+
+<START>[face:アナ:普通]いえ　大丈夫ですわ<END_STR>
+
+<START>[face:アナ:笑顔小]ねぇ　お兄さま
+ここの湖でスワンボートに乗れるって
+聞いたんですけど…<END_STR>
+
+<START>[face:主人公:普通]うん　乗れるよ
+行こうか？<END_STR>
+
+<START>[face:アナ:笑顔大]はいっ<END_STR>
+
+<START>[face:アナ:笑顔大]お兄さま
+これ　すごく楽しいですわー<END_STR>
+
+<START>[face:主人公:普通]う　うん…
+それよりアナちゃん
+スピード出しすぎじゃないか…？<END_STR>
+
+<START>[face:アナ:笑顔大]そうですか？
+風が気持ちいいですわ<END_STR>
+
+<START>[face:主人公:普通]（アナちゃん…ものすごい真剣だな
+ま　いいか　楽しそうだし）<END_STR>
+
+<START>[face:アナ:笑顔大]お兄さま　スピードアップしますわ<END_STR>
+
+<START>[face:主人公:普通]え…？　ちょっとアナちゃん…
+うわーっ<END_STR>
+
+<START>[face:アナ:笑顔大]あー　楽しかったですわ<END_STR>
+
+<START>[face:主人公:普通]そ　そう…<END_STR>
+
+<START>よかったね<END_STR>
+
+<START>スワンが壊れるかと思ったよ<END_STR>
+
+<START>スワンが空飛ぶかと思ったよ<END_STR>
+
+<START>[face:主人公:普通]よかったね<END_STR>
+
+<START>[face:アナ:笑顔大]はいっ　お兄さま
+また一緒に乗りましょうね<END_STR>
+
+<START>[face:主人公:普通]うん…<END_STR>
+
+<START>[face:主人公:普通]スワンが壊れるかと思ったよ<END_STR>
+
+<START>[face:アナ:困る]そ…そんなに　ゆれてました？
+ごめんなさい<END_STR>
+
+<START>[face:主人公:普通]いや　今のは冗談で…<END_STR>
+
+<START>[face:アナ:真剣]…そうなんですか？
+あんまり　おもしろくないですけど…<END_STR>
+
+<START>[face:主人公:普通]スワンが空飛ぶかと思ったよ<END_STR>
+
+<START>[face:アナ:笑顔大]いやですわ　お兄さま
+あたし　そんなにスピード出してませんよ<END_STR>
+
+<START>[face:主人公:普通]いや　アナちゃん
+ものすごい真剣だったからね
+ホントに飛ぶかと思ったよ<END_STR>
+
+<START>[face:アナ:困る]え…　あたしそんなに真剣な顔でした？
+…なんだか恥ずかしいですわ<END_STR>
+
+<START>[face:主人公:普通]あれ　アナちゃんまだ来てないのかな<END_STR>
+
+<START>[face:アナ:普通]お兄さまー<END_STR>
+
+<START>[face:主人公:普通]ごめんね　遠いところに呼んじゃって<END_STR>
+
+<START>[face:アナ:笑顔小]いえ　全然へいきですわ
+ねっ　フルシアンテ<END_STR>
+
+<START>[face:フルシアンテ:普通]ワン！<END_STR>
+
+<START>[face:主人公:普通]今日は涼しくて気持ちいいよね<END_STR>
+
+<START>[face:アナ:普通]ええ　昨日も夕方は涼しかったから
+フルシアンテと一緒にお散歩したんです<END_STR>
+
+<START>[face:主人公:普通]アナちゃん　昨日も来たの？<END_STR>
+
+<START>[face:アナ:普通]ええ　時々ですけど
+いつも湖の周りを１周して帰るんです<END_STR>
+
+<START>[face:主人公:普通]え…　１周もするの？
+けっこう距離あるけど…　疲れないの？<END_STR>
+
+<START>[face:アナ:笑顔小]ええ　全然<END_STR>
+
+<START>[face:主人公:普通]す　すごいね…
+オレなんて運動不足だから
+１周なんて　できるかどうか…<END_STR>
+
+<START>[face:アナ:笑顔大]いつも　ここに来るときは
+自転車ですから<END_STR>
+
+<START>[face:主人公:普通]…あ　そっか<END_STR>
+
+<START>[face:アナ:笑顔小]フルシアンテは走るのが速いから
+自転車じゃないと
+ついていけないんです<END_STR>
+
+<START>[face:主人公:普通]うん　そうかもね
+体も大きいから足も速そうだしね<END_STR>
+
+<START>[face:主人公:普通]今日は自転車じゃないから
+アナちゃんと一緒に走れなくて
+フルシアンテは退屈かもね<END_STR>
+
+<START>自転車の速さで走れたらいいね<END_STR>
+
+<START>今度は自転車で一緒に来ようか<END_STR>
+
+<START>[face:主人公:普通]自転車の速さで走れたらいいね<END_STR>
+
+<START>[face:アナ:困る]いや　それはさすがに
+無理だと思いますけど…<END_STR>
+
+<START>[face:主人公:普通]そ　そっか
+そりゃそうだよね…<END_STR>
+
+<START>[face:主人公:普通]今度は自転車で一緒に来ようか<END_STR>
+
+<START>[face:アナ:笑顔大]え　いいんですか？<END_STR>
+
+<START>[face:主人公:普通]うん　もちろん<END_STR>
+
+<START>[face:アナ:笑顔大]うれしいですわー…
+よかったね　フルシアンテ<END_STR>
+
+<START>[face:主人公:普通]アナちゃん…　まだ来てないや
+中にいるのかな？<END_STR>
+
+<START>[face:アナ:困る]お兄さま<END_STR>
+
+<START>[face:主人公:普通]いや　今来たところだから<END_STR>
+
+<START>[face:主人公:普通]じゃあ入ろうか<END_STR>
+
+<START>[face:アナ:普通]はい<END_STR>
+
+<START>[face:主人公:普通]アナちゃんは何を読んでるの？<END_STR>
+
+<START>[face:アナ:普通]あたしはファッション雑誌を…
+今週はマスカラの特集なんですわ<END_STR>
+
+<START>[face:主人公:普通]へぇ　ずいぶん大人向けの雑誌
+読んでるんだね<END_STR>
+
+<START>[face:アナ:普通]お兄さま　違いますわ<END_STR>
+
+<START>[face:主人公:普通]へ？<END_STR>
+
+<START>[face:アナ:普通]小学生向けのファッション雑誌が
+あるんですわ<END_STR>
+
+<START>[face:主人公:普通]へぇー…　それは知らなかったな
+小学生向けなのに　化粧のしかたが
+のってるんだ<END_STR>
+
+<START>[face:アナ:笑顔小]ええ　当然ですわ
+みんなオシャレが大好きですから<END_STR>
+
+<START>[face:アナ:笑顔小]あたし今度
+読者モデルに応募しようかと思ってますの<END_STR>
+
+<START>[face:主人公:普通]ど　読者モデル？　…すごいね<END_STR>
+
+<START>アナちゃんなら採用されるよ<END_STR>
+
+<START>モデルって大変な仕事だよね<END_STR>
+
+<START>じゃあオレも応募しようかな<END_STR>
+
+<START>[face:主人公:普通]アナちゃんなら採用されるよ<END_STR>
+
+<START>[face:アナ:笑顔大]ホントですか？　うれしいですわー<END_STR>
+
+<START>[face:アナ:笑顔大]じゃあ　もし読者モデルになって
+雑誌にのったら　お兄さまにも
+見せてあげますね<END_STR>
+
+<START>[face:主人公:普通]モデルって大変な仕事だよね<END_STR>
+
+<START>[face:アナ:困る]そ　そうなんですか？<END_STR>
+
+<START>[face:主人公:普通]うん　体型を維持するのに
+食べたいものも食べられないって聞くし…<END_STR>
+
+<START>[face:アナ:困る]え　好きなもの食べられないんですか？
+…やっぱりやめようかな<END_STR>
+
+<START>[face:主人公:普通]（なんか　余計なこと言っちゃったかな）<END_STR>
+
+<START>[face:主人公:普通]じゃあオレも応募しようかな<END_STR>
+
+<START>[face:アナ:困る]え…　あの　お兄さま
+読者モデルは１５才までなんですけど…
+しかも女の子だけですし…<END_STR>
+
+<START>[face:主人公:普通]い　いや…冗談なんだけど<END_STR>
+
+<START>[face:アナ:困る]あ…　そうですか<END_STR>
+
+<START>[face:主人公:普通]あ　アナちゃんごめんね　待った？<END_STR>
+
+<START>[face:アナ:普通]いえ　今来たところですわ<END_STR>
+
+<START>[face:主人公:普通]そっか　よかった<END_STR>
+
+<START>[face:主人公:普通]あー　涼しいなぁ<END_STR>
+
+<START>[face:アナ:笑顔小]ええ　外は暑いですから…
+図書館は静かだし
+お気に入りの場所ですわ<END_STR>
+
+<START>[face:主人公:普通]へぇ　図書館によく来るの？<END_STR>
+
+<START>[face:アナ:笑顔小]ええ　茉莉さんとも来るし
+ママともよく来ますわ<END_STR>
+
+<START>[face:主人公:普通]ふーん…<END_STR>
+
+<START>どんな本を借りるの？<END_STR>
+
+<START>アナちゃんのママは美人だよね<END_STR>
+
+<START>[face:主人公:普通]どんな本を借りるの？<END_STR>
+
+<START>[face:アナ:普通]うーんと…　ファッションに関する本とか
+好きな作家のエッセイとか…
+あと　ＣＤとＤＶＤもたまに借りますわ<END_STR>
+
+<START>[face:主人公:普通]へぇー　なんだか大人っぽいんだね<END_STR>
+
+<START>[face:アナ:普通]そ　そうですか？<END_STR>
+
+<START>[face:主人公:普通]（アナちゃんは
+児童書とか読まないのかな）<END_STR>
+
+<START>[face:主人公:普通]アナちゃんのママは美人だよね<END_STR>
+
+<START>[face:アナ:普通]え…　お兄さま
+ママに会ったことありましたっけ…？<END_STR>
+
+<START>[face:主人公:普通]い　いや…ないけど
+アナちゃんが　かわいいから
+ママもきっと美人なんだろうなぁって…<END_STR>
+
+<START>[face:アナ:笑顔小]…そんな
+かわいいだなんて照れますわ<END_STR>
+
+<START>[face:主人公:普通]一度ママに会ってみたいなぁ<END_STR>
+
+<START>[face:アナ:困る]え……あ　会ってどうするんですか？<END_STR>
+
+<START>[face:主人公:普通]え…？　いや　今のは冗談だよ…<END_STR>
+
+<START>[face:アナ:普通]あっ　お兄さま<END_STR>
+
+<START>[face:主人公:普通]アナちゃん　ごめんねお待たせ<END_STR>
+
+<START>[face:アナ:普通]いえ　あたしも今来たところですわ<END_STR>
+
+<START>[face:アナ:普通]じゃあ入りましょう<END_STR>
+
+<START>[face:主人公:普通]ここのレストラン　おいしいよね
+今日は何食べようかなぁ
+アナちゃんは何にする？<END_STR>
+
+<START>[face:アナ:普通]…あ　あたしは
+ジュースだけでいいですわ<END_STR>
+
+<START>[face:主人公:普通]え？　おなかすいてないの？<END_STR>
+
+<START>[face:アナ:普通]え　ええ…<END_STR>
+
+<START>[face:主人公:普通]ど　どうしたの…
+おなかすいてるように見えるけど？<END_STR>
+
+<START>[face:アナ:困る]じ…じつは
+あたし今ダイエット中なんですの<END_STR>
+
+<START>[face:主人公:普通]ダ　ダイエットか…必要ないと思うけど
+なんでダイエットなんて　はじめたの？<END_STR>
+
+<START>[face:アナ:困る]いえ…　あたしのいとこが
+モデルをやってるんですけど
+あたしもモデルになりたいと思って…<END_STR>
+
+<START>[face:主人公:普通]そっか　なるほどね…
+…でもアナちゃん　モデルの人って
+背が高い人が多いと思わない？<END_STR>
+
+<START>[face:アナ:普通]そ　そうですね
+あたしのいとこも背が高いですわ<END_STR>
+
+<START>[face:主人公:普通]でしょ？　今のうちにたくさん食べないと
+背が低いままだよ<END_STR>
+
+<START>[face:アナ:困る]そ　それはいやですわ<END_STR>
+
+<START>胸も大きくならないよ<END_STR>
+
+<START>食べても運動すれば太らないよ<END_STR>
+
+<START>[face:主人公:普通]胸も大きくならないよ<END_STR>
+
+<START>[face:アナ:真剣]え…え！？　あ　あの…<END_STR>
+
+<START>[face:主人公:普通]あはは　冗談だよ
+よし　じゃあ食べようか<END_STR>
+
+<START>[face:アナ:真剣]……はぁ<END_STR>
+
+<START>[face:主人公:普通]食べても運動すれば太らないよ<END_STR>
+
+<START>[face:アナ:普通]はい…　じゃあ今度
+佐鳴湖に行ってジョギングしようかな…
+お兄さまも一緒にやりませんか？<END_STR>
+
+<START>[face:主人公:普通]え　オレも…？
+うん　わかったよ<END_STR>
+
+<START>[face:アナ:笑顔大]ホントですかー？
+じゃあ　約束ですわ<END_STR>
+
+<START>[face:主人公:普通]…うん　約束するよ
+じゃあ　食べようか<END_STR>
+
+<START>[face:アナ:笑顔大]はいっ
+あー　おなかすきましたわ<END_STR>
+
+<START>[face:アナ:普通]じゃあ今日は　一緒にお茶しませんか？<END_STR>
+
+<START>[face:主人公:普通]オレはハラ減ったから何か食べようかな
+アナちゃんは？<END_STR>
+
+<START>[face:アナ:普通]…あ　あたしは紅茶をいただきますわ<END_STR>
+
+<START>[face:主人公:普通]ふーん…　さすがイギリス人だね<END_STR>
+
+<START>[face:主人公:普通]やっぱりイギリス人だから
+ティータイムとか大事にしてるんだよね<END_STR>
+
+<START>[face:アナ:困る]てぃ　てぃーたいむですか？
+もちろんですわ<END_STR>
+
+<START>[face:主人公:普通]…イギリス人は
+紅茶に砂糖を入れないって
+聞いたことあるけど…<END_STR>
+
+<START>[face:アナ:困る]えっ　砂糖は入れない…？
+い　いえ　もちろん入れませんわ<END_STR>
+
+<START>[face:主人公:普通]…アナちゃん　無理しなくていいからね<END_STR>
+
+<START>一緒にパフェ食べようか<END_STR>
+
+<START>ジュースにすれば？<END_STR>
+
+<START>[face:主人公:普通]一緒にパフェ食べようか<END_STR>
+
+<START>[face:アナ:普通]…そ　そうしますわ<END_STR>
+
+<START>[face:主人公:普通]パフェは甘くておいしいもんね<END_STR>
+
+<START>[face:アナ:笑顔大]ええ　あたしパフェが大好きなんです<END_STR>
+
+<START>[face:主人公:普通]そうなんだ　それはよかった<END_STR>
+
+<START>[face:主人公:普通]ジュースにすれば？<END_STR>
+
+<START>[face:アナ:困る]い　いえっ…あたしは紅茶にします
+砂糖も入れないで飲みますわ<END_STR>
+
+<START>[face:主人公:普通]そ　そっか…<END_STR>
+
+<START>none course!!
+<END_STR>
