@@ -19,8 +19,8 @@ What happened to you all of a sudden?<END_STR>
 <START>I know this is sudden, but are you free on [曜日]?
 If you don't mind, would you like to go to [場所] together?<END_STR>
 
-<START>うん　いいよ
-[曜日]曜日に[場所]だな　待ってるよ<END_STR>
+<START>Ah, okay
+It's at [場所] on [曜日]. I'll be waiting<END_STR>
 
 <START>Pうん　じゃあね<END_STR>
 
